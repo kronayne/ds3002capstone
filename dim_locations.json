@@ -1,0 +1,6032 @@
+[
+	{
+		"dim_locations_key" : 606,
+		"address_key" : 1,
+		"city_key" : 300,
+		"address" : "47 MySakila Drive",
+		"city" : "Lethbridge",
+		"district" : "Alberta",
+		"postal_code" : "",
+		"phone" : ""
+	},
+	{
+		"dim_locations_key" : 607,
+		"address_key" : 2,
+		"city_key" : 576,
+		"address" : "28 MySQL Boulevard",
+		"city" : "Woodridge",
+		"district" : "QLD",
+		"postal_code" : "",
+		"phone" : ""
+	},
+	{
+		"dim_locations_key" : 608,
+		"address_key" : 3,
+		"city_key" : 300,
+		"address" : "23 Workhaven Lane",
+		"city" : "Lethbridge",
+		"district" : "Alberta",
+		"postal_code" : "",
+		"phone" : "14033335568"
+	},
+	{
+		"dim_locations_key" : 609,
+		"address_key" : 4,
+		"city_key" : 576,
+		"address" : "1411 Lillydale Drive",
+		"city" : "Woodridge",
+		"district" : "QLD",
+		"postal_code" : "",
+		"phone" : "6172235589"
+	},
+	{
+		"dim_locations_key" : 610,
+		"address_key" : 5,
+		"city_key" : 463,
+		"address" : "1913 Hanoi Way",
+		"city" : "Sasebo",
+		"district" : "Nagasaki",
+		"postal_code" : "35200",
+		"phone" : "28303384290"
+	},
+	{
+		"dim_locations_key" : 611,
+		"address_key" : 6,
+		"city_key" : 449,
+		"address" : "1121 Loja Avenue",
+		"city" : "San Bernardino",
+		"district" : "California",
+		"postal_code" : "17886",
+		"phone" : "838635286649"
+	},
+	{
+		"dim_locations_key" : 612,
+		"address_key" : 7,
+		"city_key" : 38,
+		"address" : "692 Joliet Street",
+		"city" : "Athenai",
+		"district" : "Attika",
+		"postal_code" : "83579",
+		"phone" : "448477190408"
+	},
+	{
+		"dim_locations_key" : 613,
+		"address_key" : 8,
+		"city_key" : 349,
+		"address" : "1566 Inegl Manor",
+		"city" : "Myingyan",
+		"district" : "Mandalay",
+		"postal_code" : "53561",
+		"phone" : "705814003527"
+	},
+	{
+		"dim_locations_key" : 614,
+		"address_key" : 9,
+		"city_key" : 361,
+		"address" : "53 Idfu Parkway",
+		"city" : "Nantou",
+		"district" : "Nantou",
+		"postal_code" : "42399",
+		"phone" : "10655648674"
+	},
+	{
+		"dim_locations_key" : 615,
+		"address_key" : 10,
+		"city_key" : 295,
+		"address" : "1795 Santiago de Compostela Way",
+		"city" : "Laredo",
+		"district" : "Texas",
+		"postal_code" : "18743",
+		"phone" : "860452626434"
+	},
+	{
+		"dim_locations_key" : 616,
+		"address_key" : 11,
+		"city_key" : 280,
+		"address" : "900 Santiago de Compostela Parkway",
+		"city" : "Kragujevac",
+		"district" : "Central Serbia",
+		"postal_code" : "93896",
+		"phone" : "716571220373"
+	},
+	{
+		"dim_locations_key" : 617,
+		"address_key" : 12,
+		"city_key" : 200,
+		"address" : "478 Joliet Way",
+		"city" : "Hamilton",
+		"district" : "Hamilton",
+		"postal_code" : "77948",
+		"phone" : "657282285970"
+	},
+	{
+		"dim_locations_key" : 618,
+		"address_key" : 13,
+		"city_key" : 329,
+		"address" : "613 Korolev Drive",
+		"city" : "Masqat",
+		"district" : "Masqat",
+		"postal_code" : "45844",
+		"phone" : "380657522649"
+	},
+	{
+		"dim_locations_key" : 619,
+		"address_key" : 14,
+		"city_key" : 162,
+		"address" : "1531 Sal Drive",
+		"city" : "Esfahan",
+		"district" : "Esfahan",
+		"postal_code" : "53628",
+		"phone" : "648856936185"
+	},
+	{
+		"dim_locations_key" : 620,
+		"address_key" : 15,
+		"city_key" : 440,
+		"address" : "1542 Tarlac Parkway",
+		"city" : "Sagamihara",
+		"district" : "Kanagawa",
+		"postal_code" : "1027",
+		"phone" : "635297277345"
+	},
+	{
+		"dim_locations_key" : 621,
+		"address_key" : 16,
+		"city_key" : 582,
+		"address" : "808 Bhopal Manor",
+		"city" : "Yamuna Nagar",
+		"district" : "Haryana",
+		"postal_code" : "10672",
+		"phone" : "465887807014"
+	},
+	{
+		"dim_locations_key" : 622,
+		"address_key" : 17,
+		"city_key" : 384,
+		"address" : "270 Amroha Parkway",
+		"city" : "Osmaniye",
+		"district" : "Osmaniye",
+		"postal_code" : "29610",
+		"phone" : "695479687538"
+	},
+	{
+		"dim_locations_key" : 623,
+		"address_key" : 18,
+		"city_key" : 120,
+		"address" : "770 Bydgoszcz Avenue",
+		"city" : "Citrus Heights",
+		"district" : "California",
+		"postal_code" : "16266",
+		"phone" : "517338314235"
+	},
+	{
+		"dim_locations_key" : 624,
+		"address_key" : 19,
+		"city_key" : 76,
+		"address" : "419 Iligan Lane",
+		"city" : "Bhopal",
+		"district" : "Madhya Pradesh",
+		"postal_code" : "72878",
+		"phone" : "990911107354"
+	},
+	{
+		"dim_locations_key" : 625,
+		"address_key" : 20,
+		"city_key" : 495,
+		"address" : "360 Toulouse Parkway",
+		"city" : "Southend-on-Sea",
+		"district" : "England",
+		"postal_code" : "54308",
+		"phone" : "949312333307"
+	},
+	{
+		"dim_locations_key" : 626,
+		"address_key" : 21,
+		"city_key" : 156,
+		"address" : "270 Toulon Boulevard",
+		"city" : "Elista",
+		"district" : "Kalmykia",
+		"postal_code" : "81766",
+		"phone" : "407752414682"
+	},
+	{
+		"dim_locations_key" : 627,
+		"address_key" : 22,
+		"city_key" : 252,
+		"address" : "320 Brest Avenue",
+		"city" : "Kaduna",
+		"district" : "Kaduna",
+		"postal_code" : "43331",
+		"phone" : "747791594069"
+	},
+	{
+		"dim_locations_key" : 628,
+		"address_key" : 23,
+		"city_key" : 267,
+		"address" : "1417 Lancaster Avenue",
+		"city" : "Kimberley",
+		"district" : "Northern Cape",
+		"postal_code" : "72192",
+		"phone" : "272572357893"
+	},
+	{
+		"dim_locations_key" : 629,
+		"address_key" : 24,
+		"city_key" : 327,
+		"address" : "1688 Okara Way",
+		"city" : "Mardan",
+		"district" : "Nothwest Border Prov",
+		"postal_code" : "21954",
+		"phone" : "144453869132"
+	},
+	{
+		"dim_locations_key" : 630,
+		"address_key" : 25,
+		"city_key" : 525,
+		"address" : "262 A Corua (La Corua) Parkway",
+		"city" : "Tangail",
+		"district" : "Dhaka",
+		"postal_code" : "34418",
+		"phone" : "892775750063"
+	},
+	{
+		"dim_locations_key" : 631,
+		"address_key" : 26,
+		"city_key" : 443,
+		"address" : "28 Charlotte Amalie Street",
+		"city" : "Sal",
+		"district" : "Rabat-Sal-Zammour-Z",
+		"postal_code" : "37551",
+		"phone" : "161968374323"
+	},
+	{
+		"dim_locations_key" : 632,
+		"address_key" : 27,
+		"city_key" : 303,
+		"address" : "1780 Hino Boulevard",
+		"city" : "Liepaja",
+		"district" : "Liepaja",
+		"postal_code" : "7716",
+		"phone" : "902731229323"
+	},
+	{
+		"dim_locations_key" : 633,
+		"address_key" : 28,
+		"city_key" : 128,
+		"address" : "96 Tafuna Way",
+		"city" : "Crdoba",
+		"district" : "Crdoba",
+		"postal_code" : "99865",
+		"phone" : "934730187245"
+	},
+	{
+		"dim_locations_key" : 634,
+		"address_key" : 29,
+		"city_key" : 472,
+		"address" : "934 San Felipe de Puerto Plata Street",
+		"city" : "Shikarpur",
+		"district" : "Sind",
+		"postal_code" : "99780",
+		"phone" : "196495945706"
+	},
+	{
+		"dim_locations_key" : 635,
+		"address_key" : 30,
+		"city_key" : 121,
+		"address" : "18 Duisburg Boulevard",
+		"city" : "Citt del Vaticano",
+		"district" : "",
+		"postal_code" : "58327",
+		"phone" : "998009777982"
+	},
+	{
+		"dim_locations_key" : 636,
+		"address_key" : 31,
+		"city_key" : 138,
+		"address" : "217 Botshabelo Place",
+		"city" : "Davao",
+		"district" : "Southern Mindanao",
+		"postal_code" : "49521",
+		"phone" : "665356572025"
+	},
+	{
+		"dim_locations_key" : 637,
+		"address_key" : 32,
+		"city_key" : 346,
+		"address" : "1425 Shikarpur Manor",
+		"city" : "Munger (Monghyr)",
+		"district" : "Bihar",
+		"postal_code" : "65599",
+		"phone" : "678220867005"
+	},
+	{
+		"dim_locations_key" : 638,
+		"address_key" : 33,
+		"city_key" : 474,
+		"address" : "786 Aurora Avenue",
+		"city" : "Shimonoseki",
+		"district" : "Yamaguchi",
+		"postal_code" : "65750",
+		"phone" : "18461860151"
+	},
+	{
+		"dim_locations_key" : 639,
+		"address_key" : 34,
+		"city_key" : 316,
+		"address" : "1668 Anpolis Street",
+		"city" : "Lungtan",
+		"district" : "Taipei",
+		"postal_code" : "50199",
+		"phone" : "525255540978"
+	},
+	{
+		"dim_locations_key" : 640,
+		"address_key" : 35,
+		"city_key" : 257,
+		"address" : "33 Gorontalo Way",
+		"city" : "Kamarhati",
+		"district" : "West Bengali",
+		"postal_code" : "30348",
+		"phone" : "745994947458"
+	},
+	{
+		"dim_locations_key" : 641,
+		"address_key" : 36,
+		"city_key" : 239,
+		"address" : "176 Mandaluyong Place",
+		"city" : "Jhansi",
+		"district" : "Uttar Pradesh",
+		"postal_code" : "65213",
+		"phone" : "627705991774"
+	},
+	{
+		"dim_locations_key" : 642,
+		"address_key" : 37,
+		"city_key" : 17,
+		"address" : "127 Purnea (Purnia) Manor",
+		"city" : "Alessandria",
+		"district" : "Piemonte",
+		"postal_code" : "79388",
+		"phone" : "911872220378"
+	},
+	{
+		"dim_locations_key" : 643,
+		"address_key" : 38,
+		"city_key" : 284,
+		"address" : "61 Tama Street",
+		"city" : "Kurashiki",
+		"district" : "Okayama",
+		"postal_code" : "94065",
+		"phone" : "708403338270"
+	},
+	{
+		"dim_locations_key" : 644,
+		"address_key" : 39,
+		"city_key" : 544,
+		"address" : "391 Callao Drive",
+		"city" : "Toulouse",
+		"district" : "Midi-Pyrnes",
+		"postal_code" : "34021",
+		"phone" : "440512153169"
+	},
+	{
+		"dim_locations_key" : 645,
+		"address_key" : 40,
+		"city_key" : 31,
+		"address" : "334 Munger (Monghyr) Lane",
+		"city" : "Arak",
+		"district" : "Markazi",
+		"postal_code" : "38145",
+		"phone" : "481183273622"
+	},
+	{
+		"dim_locations_key" : 646,
+		"address_key" : 41,
+		"city_key" : 362,
+		"address" : "1440 Fukuyama Loop",
+		"city" : "Nanyang",
+		"district" : "Henan",
+		"postal_code" : "47929",
+		"phone" : "912257250465"
+	},
+	{
+		"dim_locations_key" : 647,
+		"address_key" : 42,
+		"city_key" : 115,
+		"address" : "269 Cam Ranh Parkway",
+		"city" : "Chisinau",
+		"district" : "Chisinau",
+		"postal_code" : "34689",
+		"phone" : "489783829737"
+	},
+	{
+		"dim_locations_key" : 648,
+		"address_key" : 43,
+		"city_key" : 569,
+		"address" : "306 Antofagasta Place",
+		"city" : "Vila Velha",
+		"district" : "Esprito Santo",
+		"postal_code" : "3989",
+		"phone" : "378318851631"
+	},
+	{
+		"dim_locations_key" : 649,
+		"address_key" : 44,
+		"city_key" : 353,
+		"address" : "671 Graz Street",
+		"city" : "Nador",
+		"district" : "Oriental",
+		"postal_code" : "94399",
+		"phone" : "680768868518"
+	},
+	{
+		"dim_locations_key" : 650,
+		"address_key" : 45,
+		"city_key" : 586,
+		"address" : "42 Brindisi Place",
+		"city" : "Yerevan",
+		"district" : "Yerevan",
+		"postal_code" : "16744",
+		"phone" : "42384721397"
+	},
+	{
+		"dim_locations_key" : 651,
+		"address_key" : 46,
+		"city_key" : 394,
+		"address" : "1632 Bislig Avenue",
+		"city" : "Pak Kret",
+		"district" : "Nonthaburi",
+		"postal_code" : "61117",
+		"phone" : "471675840679"
+	},
+	{
+		"dim_locations_key" : 652,
+		"address_key" : 47,
+		"city_key" : 167,
+		"address" : "1447 Imus Way",
+		"city" : "Faaa",
+		"district" : "Tahiti",
+		"postal_code" : "48942",
+		"phone" : "539758313890"
+	},
+	{
+		"dim_locations_key" : 653,
+		"address_key" : 48,
+		"city_key" : 308,
+		"address" : "1998 Halifax Drive",
+		"city" : "Lipetsk",
+		"district" : "Lipetsk",
+		"postal_code" : "76022",
+		"phone" : "177727722820"
+	},
+	{
+		"dim_locations_key" : 654,
+		"address_key" : 49,
+		"city_key" : 27,
+		"address" : "1718 Valencia Street",
+		"city" : "Antofagasta",
+		"district" : "Antofagasta",
+		"postal_code" : "37359",
+		"phone" : "675292816413"
+	},
+	{
+		"dim_locations_key" : 655,
+		"address_key" : 50,
+		"city_key" : 343,
+		"address" : "46 Pjatigorsk Lane",
+		"city" : "Moscow",
+		"district" : "Moscow (City)",
+		"postal_code" : "23616",
+		"phone" : "262076994845"
+	},
+	{
+		"dim_locations_key" : 656,
+		"address_key" : 51,
+		"city_key" : 247,
+		"address" : "686 Garland Manor",
+		"city" : "Juazeiro do Norte",
+		"district" : "Cear",
+		"postal_code" : "52535",
+		"phone" : "69493378813"
+	},
+	{
+		"dim_locations_key" : 657,
+		"address_key" : 52,
+		"city_key" : 367,
+		"address" : "909 Garland Manor",
+		"city" : "Niznekamsk",
+		"district" : "Tatarstan",
+		"postal_code" : "69367",
+		"phone" : "705800322606"
+	},
+	{
+		"dim_locations_key" : 658,
+		"address_key" : 53,
+		"city_key" : 237,
+		"address" : "725 Isesaki Place",
+		"city" : "Jedda",
+		"district" : "Mekka",
+		"postal_code" : "74428",
+		"phone" : "876295323994"
+	},
+	{
+		"dim_locations_key" : 659,
+		"address_key" : 54,
+		"city_key" : 379,
+		"address" : "115 Hidalgo Parkway",
+		"city" : "Omdurman",
+		"district" : "Khartum",
+		"postal_code" : "80168",
+		"phone" : "307703950263"
+	},
+	{
+		"dim_locations_key" : 660,
+		"address_key" : 55,
+		"city_key" : 171,
+		"address" : "1135 Izumisano Parkway",
+		"city" : "Fontana",
+		"district" : "California",
+		"postal_code" : "48150",
+		"phone" : "171822533480"
+	},
+	{
+		"dim_locations_key" : 661,
+		"address_key" : 56,
+		"city_key" : 1,
+		"address" : "939 Probolinggo Loop",
+		"city" : "A Corua (La Corua)",
+		"district" : "Galicia",
+		"postal_code" : "4166",
+		"phone" : "680428310138"
+	},
+	{
+		"dim_locations_key" : 662,
+		"address_key" : 57,
+		"city_key" : 355,
+		"address" : "17 Kabul Boulevard",
+		"city" : "Nagareyama",
+		"district" : "Chiba",
+		"postal_code" : "38594",
+		"phone" : "697760867968"
+	},
+	{
+		"dim_locations_key" : 663,
+		"address_key" : 58,
+		"city_key" : 227,
+		"address" : "1964 Allappuzha (Alleppey) Street",
+		"city" : "Iwakuni",
+		"district" : "Yamaguchi",
+		"postal_code" : "48980",
+		"phone" : "920811325222"
+	},
+	{
+		"dim_locations_key" : 664,
+		"address_key" : 59,
+		"city_key" : 49,
+		"address" : "1697 Kowloon and New Kowloon Loop",
+		"city" : "Balaiha",
+		"district" : "Moskova",
+		"postal_code" : "57807",
+		"phone" : "499352017190"
+	},
+	{
+		"dim_locations_key" : 665,
+		"address_key" : 60,
+		"city_key" : 397,
+		"address" : "1668 Saint Louis Place",
+		"city" : "Papeete",
+		"district" : "Tahiti",
+		"postal_code" : "39072",
+		"phone" : "347487831378"
+	},
+	{
+		"dim_locations_key" : 666,
+		"address_key" : 61,
+		"city_key" : 560,
+		"address" : "943 Tokat Street",
+		"city" : "Vaduz",
+		"district" : "Vaduz",
+		"postal_code" : "45428",
+		"phone" : "889318963672"
+	},
+	{
+		"dim_locations_key" : 667,
+		"address_key" : 62,
+		"city_key" : 282,
+		"address" : "1114 Liepaja Street",
+		"city" : "Kuching",
+		"district" : "Sarawak",
+		"postal_code" : "69226",
+		"phone" : "212869228936"
+	},
+	{
+		"dim_locations_key" : 668,
+		"address_key" : 63,
+		"city_key" : 350,
+		"address" : "1213 Ranchi Parkway",
+		"city" : "Mysore",
+		"district" : "Karnataka",
+		"postal_code" : "94352",
+		"phone" : "800024380485"
+	},
+	{
+		"dim_locations_key" : 669,
+		"address_key" : 64,
+		"city_key" : 231,
+		"address" : "81 Hodeida Way",
+		"city" : "Jaipur",
+		"district" : "Rajasthan",
+		"postal_code" : "55561",
+		"phone" : "250767749542"
+	},
+	{
+		"dim_locations_key" : 670,
+		"address_key" : 65,
+		"city_key" : 56,
+		"address" : "915 Ponce Place",
+		"city" : "Basel",
+		"district" : "Basel-Stadt",
+		"postal_code" : "83980",
+		"phone" : "1395251317"
+	},
+	{
+		"dim_locations_key" : 671,
+		"address_key" : 66,
+		"city_key" : 441,
+		"address" : "1717 Guadalajara Lane",
+		"city" : "Saint Louis",
+		"district" : "Missouri",
+		"postal_code" : "85505",
+		"phone" : "914090181665"
+	},
+	{
+		"dim_locations_key" : 672,
+		"address_key" : 67,
+		"city_key" : 306,
+		"address" : "1214 Hanoi Way",
+		"city" : "Lincoln",
+		"district" : "Nebraska",
+		"postal_code" : "67055",
+		"phone" : "491001136577"
+	},
+	{
+		"dim_locations_key" : 673,
+		"address_key" : 68,
+		"city_key" : 139,
+		"address" : "1966 Amroha Avenue",
+		"city" : "Daxian",
+		"district" : "Sichuan",
+		"postal_code" : "70385",
+		"phone" : "333489324603"
+	},
+	{
+		"dim_locations_key" : 674,
+		"address_key" : 69,
+		"city_key" : 105,
+		"address" : "698 Otsu Street",
+		"city" : "Cayenne",
+		"district" : "Cayenne",
+		"postal_code" : "71110",
+		"phone" : "409983924481"
+	},
+	{
+		"dim_locations_key" : 675,
+		"address_key" : 70,
+		"city_key" : 321,
+		"address" : "1150 Kimchon Manor",
+		"city" : "Malm",
+		"district" : "Skne ln",
+		"postal_code" : "96109",
+		"phone" : "663449333709"
+	},
+	{
+		"dim_locations_key" : 676,
+		"address_key" : 71,
+		"city_key" : 579,
+		"address" : "1586 Guaruj Place",
+		"city" : "Xiangtan",
+		"district" : "Hunan",
+		"postal_code" : "5135",
+		"phone" : "947233365992"
+	},
+	{
+		"dim_locations_key" : 677,
+		"address_key" : 72,
+		"city_key" : 475,
+		"address" : "57 Arlington Manor",
+		"city" : "Shivapuri",
+		"district" : "Madhya Pradesh",
+		"postal_code" : "48960",
+		"phone" : "990214419142"
+	},
+	{
+		"dim_locations_key" : 678,
+		"address_key" : 73,
+		"city_key" : 63,
+		"address" : "1031 Daugavpils Parkway",
+		"city" : "Bchar",
+		"district" : "Bchar",
+		"postal_code" : "59025",
+		"phone" : "107137400143"
+	},
+	{
+		"dim_locations_key" : 679,
+		"address_key" : 74,
+		"city_key" : 13,
+		"address" : "1124 Buenaventura Drive",
+		"city" : "al-Hawiya",
+		"district" : "Mekka",
+		"postal_code" : "6856",
+		"phone" : "407733804223"
+	},
+	{
+		"dim_locations_key" : 680,
+		"address_key" : 75,
+		"city_key" : 61,
+		"address" : "492 Cam Ranh Street",
+		"city" : "Baybay",
+		"district" : "Eastern Visayas",
+		"postal_code" : "50805",
+		"phone" : "565018274456"
+	},
+	{
+		"dim_locations_key" : 681,
+		"address_key" : 76,
+		"city_key" : 517,
+		"address" : "89 Allappuzha (Alleppey) Manor",
+		"city" : "Taguig",
+		"district" : "National Capital Reg",
+		"postal_code" : "75444",
+		"phone" : "255800440636"
+	},
+	{
+		"dim_locations_key" : 682,
+		"address_key" : 77,
+		"city_key" : 114,
+		"address" : "1947 Poos de Caldas Boulevard",
+		"city" : "Chiayi",
+		"district" : "Chiayi",
+		"postal_code" : "60951",
+		"phone" : "427454485876"
+	},
+	{
+		"dim_locations_key" : 683,
+		"address_key" : 78,
+		"city_key" : 431,
+		"address" : "1206 Dos Quebradas Place",
+		"city" : "Rio Claro",
+		"district" : "So Paulo",
+		"postal_code" : "20207",
+		"phone" : "241832790687"
+	},
+	{
+		"dim_locations_key" : 684,
+		"address_key" : 79,
+		"city_key" : 108,
+		"address" : "1551 Rampur Lane",
+		"city" : "Changhwa",
+		"district" : "Changhwa",
+		"postal_code" : "72394",
+		"phone" : "251164340471"
+	},
+	{
+		"dim_locations_key" : 685,
+		"address_key" : 80,
+		"city_key" : 402,
+		"address" : "602 Paarl Street",
+		"city" : "Pavlodar",
+		"district" : "Pavlodar",
+		"postal_code" : "98889",
+		"phone" : "896314772871"
+	},
+	{
+		"dim_locations_key" : 686,
+		"address_key" : 81,
+		"city_key" : 30,
+		"address" : "1692 Ede Loop",
+		"city" : "Araatuba",
+		"district" : "So Paulo",
+		"postal_code" : "9223",
+		"phone" : "918711376618"
+	},
+	{
+		"dim_locations_key" : 687,
+		"address_key" : 82,
+		"city_key" : 425,
+		"address" : "936 Salzburg Lane",
+		"city" : "Rae Bareli",
+		"district" : "Uttar Pradesh",
+		"postal_code" : "96709",
+		"phone" : "875756771675"
+	},
+	{
+		"dim_locations_key" : 688,
+		"address_key" : 83,
+		"city_key" : 256,
+		"address" : "586 Tete Way",
+		"city" : "Kamakura",
+		"district" : "Kanagawa",
+		"postal_code" : "1079",
+		"phone" : "18581624103"
+	},
+	{
+		"dim_locations_key" : 689,
+		"address_key" : 84,
+		"city_key" : 217,
+		"address" : "1888 Kabul Drive",
+		"city" : "Ife",
+		"district" : "Oyo & Osun",
+		"postal_code" : "20936",
+		"phone" : "701457319790"
+	},
+	{
+		"dim_locations_key" : 690,
+		"address_key" : 85,
+		"city_key" : 319,
+		"address" : "320 Baiyin Parkway",
+		"city" : "Mahajanga",
+		"district" : "Mahajanga",
+		"postal_code" : "37307",
+		"phone" : "223664661973"
+	},
+	{
+		"dim_locations_key" : 691,
+		"address_key" : 86,
+		"city_key" : 479,
+		"address" : "927 Baha Blanca Parkway",
+		"city" : "Simferopol",
+		"district" : "Krim",
+		"postal_code" : "9495",
+		"phone" : "821972242086"
+	},
+	{
+		"dim_locations_key" : 692,
+		"address_key" : 87,
+		"city_key" : 497,
+		"address" : "929 Tallahassee Loop",
+		"city" : "Springs",
+		"district" : "Gauteng",
+		"postal_code" : "74671",
+		"phone" : "800716535041"
+	},
+	{
+		"dim_locations_key" : 693,
+		"address_key" : 88,
+		"city_key" : 40,
+		"address" : "125 Citt del Vaticano Boulevard",
+		"city" : "Atlixco",
+		"district" : "Puebla",
+		"postal_code" : "67912",
+		"phone" : "48417642933"
+	},
+	{
+		"dim_locations_key" : 694,
+		"address_key" : 89,
+		"city_key" : 88,
+		"address" : "1557 Ktahya Boulevard",
+		"city" : "Bradford",
+		"district" : "England",
+		"postal_code" : "88002",
+		"phone" : "720998247660"
+	},
+	{
+		"dim_locations_key" : 695,
+		"address_key" : 90,
+		"city_key" : 489,
+		"address" : "870 Ashqelon Loop",
+		"city" : "Songkhla",
+		"district" : "Songkhla",
+		"postal_code" : "84931",
+		"phone" : "135117278909"
+	},
+	{
+		"dim_locations_key" : 696,
+		"address_key" : 91,
+		"city_key" : 480,
+		"address" : "1740 Portoviejo Avenue",
+		"city" : "Sincelejo",
+		"district" : "Sucre",
+		"postal_code" : "29932",
+		"phone" : "198123170793"
+	},
+	{
+		"dim_locations_key" : 697,
+		"address_key" : 92,
+		"city_key" : 113,
+		"address" : "1942 Ciparay Parkway",
+		"city" : "Cheju",
+		"district" : "Cheju",
+		"postal_code" : "82624",
+		"phone" : "978987363654"
+	},
+	{
+		"dim_locations_key" : 698,
+		"address_key" : 93,
+		"city_key" : 289,
+		"address" : "1926 El Alto Avenue",
+		"city" : "La Plata",
+		"district" : "Buenos Aires",
+		"postal_code" : "75543",
+		"phone" : "846225459260"
+	},
+	{
+		"dim_locations_key" : 699,
+		"address_key" : 94,
+		"city_key" : 332,
+		"address" : "1952 Chatsworth Drive",
+		"city" : "Meixian",
+		"district" : "Guangdong",
+		"postal_code" : "25958",
+		"phone" : "991562402283"
+	},
+	{
+		"dim_locations_key" : 700,
+		"address_key" : 95,
+		"city_key" : 53,
+		"address" : "1370 Le Mans Avenue",
+		"city" : "Bandar Seri Begawan",
+		"district" : "Brunei and Muara",
+		"postal_code" : "52163",
+		"phone" : "345679835036"
+	},
+	{
+		"dim_locations_key" : 701,
+		"address_key" : 96,
+		"city_key" : 183,
+		"address" : "984 Effon-Alaiye Avenue",
+		"city" : "Goinia",
+		"district" : "Gois",
+		"postal_code" : "17119",
+		"phone" : "132986892228"
+	},
+	{
+		"dim_locations_key" : 702,
+		"address_key" : 97,
+		"city_key" : 592,
+		"address" : "832 Nakhon Sawan Manor",
+		"city" : "Zalantun",
+		"district" : "Inner Mongolia",
+		"postal_code" : "49021",
+		"phone" : "275595571388"
+	},
+	{
+		"dim_locations_key" : 703,
+		"address_key" : 98,
+		"city_key" : 82,
+		"address" : "152 Kitwe Parkway",
+		"city" : "Bislig",
+		"district" : "Caraga",
+		"postal_code" : "53182",
+		"phone" : "835433605312"
+	},
+	{
+		"dim_locations_key" : 704,
+		"address_key" : 99,
+		"city_key" : 399,
+		"address" : "1697 Tanauan Lane",
+		"city" : "Pathankot",
+		"district" : "Punjab",
+		"postal_code" : "22870",
+		"phone" : "4764773857"
+	},
+	{
+		"dim_locations_key" : 705,
+		"address_key" : 100,
+		"city_key" : 41,
+		"address" : "1308 Arecibo Way",
+		"city" : "Augusta-Richmond County",
+		"district" : "Georgia",
+		"postal_code" : "30695",
+		"phone" : "6171054059"
+	},
+	{
+		"dim_locations_key" : 706,
+		"address_key" : 101,
+		"city_key" : 534,
+		"address" : "1599 Plock Drive",
+		"city" : "Tete",
+		"district" : "Tete",
+		"postal_code" : "71986",
+		"phone" : "817248913162"
+	},
+	{
+		"dim_locations_key" : 707,
+		"address_key" : 102,
+		"city_key" : 12,
+		"address" : "669 Firozabad Loop",
+		"city" : "al-Ayn",
+		"district" : "Abu Dhabi",
+		"postal_code" : "92265",
+		"phone" : "412903167998"
+	},
+	{
+		"dim_locations_key" : 708,
+		"address_key" : 103,
+		"city_key" : 268,
+		"address" : "588 Vila Velha Manor",
+		"city" : "Kimchon",
+		"district" : "Kyongsangbuk",
+		"postal_code" : "51540",
+		"phone" : "333339908719"
+	},
+	{
+		"dim_locations_key" : 709,
+		"address_key" : 104,
+		"city_key" : 238,
+		"address" : "1913 Kamakura Place",
+		"city" : "Jelets",
+		"district" : "Lipetsk",
+		"postal_code" : "97287",
+		"phone" : "942570536750"
+	},
+	{
+		"dim_locations_key" : 710,
+		"address_key" : 105,
+		"city_key" : 2,
+		"address" : "733 Mandaluyong Place",
+		"city" : "Abha",
+		"district" : "Asir",
+		"postal_code" : "77459",
+		"phone" : "196568435814"
+	},
+	{
+		"dim_locations_key" : 711,
+		"address_key" : 106,
+		"city_key" : 34,
+		"address" : "659 Vaduz Drive",
+		"city" : "Ashdod",
+		"district" : "Ha Darom",
+		"postal_code" : "49708",
+		"phone" : "709935135487"
+	},
+	{
+		"dim_locations_key" : 712,
+		"address_key" : 107,
+		"city_key" : 220,
+		"address" : "1177 Jelets Way",
+		"city" : "Ilorin",
+		"district" : "Kwara & Kogi",
+		"postal_code" : "3305",
+		"phone" : "484292626944"
+	},
+	{
+		"dim_locations_key" : 713,
+		"address_key" : 108,
+		"city_key" : 543,
+		"address" : "1386 Yangor Avenue",
+		"city" : "Toulon",
+		"district" : "Provence-Alpes-Cte",
+		"postal_code" : "80720",
+		"phone" : "449216226468"
+	},
+	{
+		"dim_locations_key" : 714,
+		"address_key" : 109,
+		"city_key" : 173,
+		"address" : "454 Nakhon Sawan Boulevard",
+		"city" : "Funafuti",
+		"district" : "Funafuti",
+		"postal_code" : "76383",
+		"phone" : "963887147572"
+	},
+	{
+		"dim_locations_key" : 715,
+		"address_key" : 110,
+		"city_key" : 225,
+		"address" : "1867 San Juan Bautista Tuxtepec Avenue",
+		"city" : "Ivanovo",
+		"district" : "Ivanovo",
+		"postal_code" : "78311",
+		"phone" : "547003310357"
+	},
+	{
+		"dim_locations_key" : 716,
+		"address_key" : 111,
+		"city_key" : 334,
+		"address" : "1532 Dzerzinsk Way",
+		"city" : "Merlo",
+		"district" : "Buenos Aires",
+		"postal_code" : "9599",
+		"phone" : "330838016880"
+	},
+	{
+		"dim_locations_key" : 717,
+		"address_key" : 112,
+		"city_key" : 213,
+		"address" : "1002 Ahmadnagar Manor",
+		"city" : "Huixquilucan",
+		"district" : "Mxico",
+		"postal_code" : "93026",
+		"phone" : "371490777743"
+	},
+	{
+		"dim_locations_key" : 718,
+		"address_key" : 113,
+		"city_key" : 273,
+		"address" : "682 Junan Way",
+		"city" : "Klerksdorp",
+		"district" : "North West",
+		"postal_code" : "30418",
+		"phone" : "622255216127"
+	},
+	{
+		"dim_locations_key" : 719,
+		"address_key" : 114,
+		"city_key" : 159,
+		"address" : "804 Elista Drive",
+		"city" : "Enshi",
+		"district" : "Hubei",
+		"postal_code" : "61069",
+		"phone" : "379804592943"
+	},
+	{
+		"dim_locations_key" : 720,
+		"address_key" : 115,
+		"city_key" : 102,
+		"address" : "1378 Alvorada Avenue",
+		"city" : "Caracas",
+		"district" : "Distrito Federal",
+		"postal_code" : "75834",
+		"phone" : "272234298332"
+	},
+	{
+		"dim_locations_key" : 721,
+		"address_key" : 116,
+		"city_key" : 292,
+		"address" : "793 Cam Ranh Avenue",
+		"city" : "Lancaster",
+		"district" : "California",
+		"postal_code" : "87057",
+		"phone" : "824370924746"
+	},
+	{
+		"dim_locations_key" : 722,
+		"address_key" : 117,
+		"city_key" : 132,
+		"address" : "1079 Tel Aviv-Jaffa Boulevard",
+		"city" : "Cuman",
+		"district" : "Sucre",
+		"postal_code" : "10885",
+		"phone" : "358178933857"
+	},
+	{
+		"dim_locations_key" : 723,
+		"address_key" : 118,
+		"city_key" : 148,
+		"address" : "442 Rae Bareli Place",
+		"city" : "Duisburg",
+		"district" : "Nordrhein-Westfalen",
+		"postal_code" : "24321",
+		"phone" : "886636413768"
+	},
+	{
+		"dim_locations_key" : 724,
+		"address_key" : 119,
+		"city_key" : 365,
+		"address" : "1107 Nakhon Sawan Avenue",
+		"city" : "Nezahualcyotl",
+		"district" : "Mxico",
+		"postal_code" : "75149",
+		"phone" : "867546627903"
+	},
+	{
+		"dim_locations_key" : 725,
+		"address_key" : 120,
+		"city_key" : 403,
+		"address" : "544 Malm Parkway",
+		"city" : "Pemalang",
+		"district" : "Central Java",
+		"postal_code" : "63502",
+		"phone" : "386759646229"
+	},
+	{
+		"dim_locations_key" : 726,
+		"address_key" : 121,
+		"city_key" : 176,
+		"address" : "1967 Sincelejo Place",
+		"city" : "Gandhinagar",
+		"district" : "Gujarat",
+		"postal_code" : "73644",
+		"phone" : "577812616052"
+	},
+	{
+		"dim_locations_key" : 727,
+		"address_key" : 122,
+		"city_key" : 185,
+		"address" : "333 Goinia Way",
+		"city" : "Grand Prairie",
+		"district" : "Texas",
+		"postal_code" : "78625",
+		"phone" : "909029256431"
+	},
+	{
+		"dim_locations_key" : 728,
+		"address_key" : 123,
+		"city_key" : 476,
+		"address" : "1987 Coacalco de Berriozbal Loop",
+		"city" : "Shubra al-Khayma",
+		"district" : "al-Qalyubiya",
+		"postal_code" : "96065",
+		"phone" : "787654415858"
+	},
+	{
+		"dim_locations_key" : 729,
+		"address_key" : 124,
+		"city_key" : 147,
+		"address" : "241 Mosul Lane",
+		"city" : "Dos Quebradas",
+		"district" : "Risaralda",
+		"postal_code" : "76157",
+		"phone" : "765345144779"
+	},
+	{
+		"dim_locations_key" : 730,
+		"address_key" : 125,
+		"city_key" : 164,
+		"address" : "211 Chiayi Drive",
+		"city" : "Etawah",
+		"district" : "Uttar Pradesh",
+		"postal_code" : "58186",
+		"phone" : "665993880048"
+	},
+	{
+		"dim_locations_key" : 731,
+		"address_key" : 126,
+		"city_key" : 305,
+		"address" : "1175 Tanauan Way",
+		"city" : "Lima",
+		"district" : "Lima",
+		"postal_code" : "64615",
+		"phone" : "937222955822"
+	},
+	{
+		"dim_locations_key" : 732,
+		"address_key" : 127,
+		"city_key" : 566,
+		"address" : "117 Boa Vista Way",
+		"city" : "Varanasi (Benares)",
+		"district" : "Uttar Pradesh",
+		"postal_code" : "6804",
+		"phone" : "677976133614"
+	},
+	{
+		"dim_locations_key" : 733,
+		"address_key" : 128,
+		"city_key" : 281,
+		"address" : "848 Tafuna Manor",
+		"city" : "Ktahya",
+		"district" : "Ktahya",
+		"postal_code" : "45142",
+		"phone" : "614935229095"
+	},
+	{
+		"dim_locations_key" : 734,
+		"address_key" : 129,
+		"city_key" : 85,
+		"address" : "569 Baicheng Lane",
+		"city" : "Boksburg",
+		"district" : "Gauteng",
+		"postal_code" : "60304",
+		"phone" : "490211944645"
+	},
+	{
+		"dim_locations_key" : 735,
+		"address_key" : 130,
+		"city_key" : 410,
+		"address" : "1666 Qomsheh Drive",
+		"city" : "Po",
+		"district" : "So Paulo",
+		"postal_code" : "66255",
+		"phone" : "582835362905"
+	},
+	{
+		"dim_locations_key" : 736,
+		"address_key" : 131,
+		"city_key" : 484,
+		"address" : "801 Hagonoy Drive",
+		"city" : "Smolensk",
+		"district" : "Smolensk",
+		"postal_code" : "8439",
+		"phone" : "237426099212"
+	},
+	{
+		"dim_locations_key" : 737,
+		"address_key" : 132,
+		"city_key" : 236,
+		"address" : "1050 Garden Grove Avenue",
+		"city" : "Jastrzebie-Zdrj",
+		"district" : "Slaskie",
+		"postal_code" : "4999",
+		"phone" : "973047364353"
+	},
+	{
+		"dim_locations_key" : 738,
+		"address_key" : 133,
+		"city_key" : 302,
+		"address" : "1854 Tieli Street",
+		"city" : "Liaocheng",
+		"district" : "Shandong",
+		"postal_code" : "15819",
+		"phone" : "509492324775"
+	},
+	{
+		"dim_locations_key" : 739,
+		"address_key" : 134,
+		"city_key" : 190,
+		"address" : "758 Junan Lane",
+		"city" : "guas Lindas de Gois",
+		"district" : "Gois",
+		"postal_code" : "82639",
+		"phone" : "935448624185"
+	},
+	{
+		"dim_locations_key" : 740,
+		"address_key" : 135,
+		"city_key" : 345,
+		"address" : "1752 So Leopoldo Parkway",
+		"city" : "Mukateve",
+		"district" : "Taka-Karpatia",
+		"postal_code" : "14014",
+		"phone" : "252265130067"
+	},
+	{
+		"dim_locations_key" : 741,
+		"address_key" : 136,
+		"city_key" : 87,
+		"address" : "898 Belm Manor",
+		"city" : "Botshabelo",
+		"district" : "Free State",
+		"postal_code" : "49757",
+		"phone" : "707169393853"
+	},
+	{
+		"dim_locations_key" : 742,
+		"address_key" : 137,
+		"city_key" : 541,
+		"address" : "261 Saint Louis Way",
+		"city" : "Torren",
+		"district" : "Coahuila de Zaragoza",
+		"postal_code" : "83401",
+		"phone" : "321944036800"
+	},
+	{
+		"dim_locations_key" : 743,
+		"address_key" : 138,
+		"city_key" : 421,
+		"address" : "765 Southampton Drive",
+		"city" : "Qalyub",
+		"district" : "al-Qalyubiya",
+		"postal_code" : "4285",
+		"phone" : "23712411567"
+	},
+	{
+		"dim_locations_key" : 744,
+		"address_key" : 139,
+		"city_key" : 417,
+		"address" : "943 Johannesburg Avenue",
+		"city" : "Pune",
+		"district" : "Maharashtra",
+		"postal_code" : "5892",
+		"phone" : "90921003005"
+	},
+	{
+		"dim_locations_key" : 745,
+		"address_key" : 140,
+		"city_key" : 211,
+		"address" : "788 Atinsk Street",
+		"city" : "Hubli-Dharwad",
+		"district" : "Karnataka",
+		"postal_code" : "81691",
+		"phone" : "146497509724"
+	},
+	{
+		"dim_locations_key" : 746,
+		"address_key" : 141,
+		"city_key" : 29,
+		"address" : "1749 Daxian Place",
+		"city" : "Apeldoorn",
+		"district" : "Gelderland",
+		"postal_code" : "11044",
+		"phone" : "963369996279"
+	},
+	{
+		"dim_locations_key" : 747,
+		"address_key" : 142,
+		"city_key" : 207,
+		"address" : "1587 Sullana Lane",
+		"city" : "Hohhot",
+		"district" : "Inner Mongolia",
+		"postal_code" : "85769",
+		"phone" : "468060467018"
+	},
+	{
+		"dim_locations_key" : 748,
+		"address_key" : 143,
+		"city_key" : 542,
+		"address" : "1029 Dzerzinsk Manor",
+		"city" : "Touliu",
+		"district" : "Ynlin",
+		"postal_code" : "57519",
+		"phone" : "33173584456"
+	},
+	{
+		"dim_locations_key" : 749,
+		"address_key" : 144,
+		"city_key" : 123,
+		"address" : "1666 Beni-Mellal Place",
+		"city" : "Clarksville",
+		"district" : "Tennessee",
+		"postal_code" : "13377",
+		"phone" : "9099941466"
+	},
+	{
+		"dim_locations_key" : 750,
+		"address_key" : 145,
+		"city_key" : 172,
+		"address" : "928 Jaffna Loop",
+		"city" : "Fukuyama",
+		"district" : "Hiroshima",
+		"postal_code" : "93762",
+		"phone" : "581852137991"
+	},
+	{
+		"dim_locations_key" : 751,
+		"address_key" : 146,
+		"city_key" : 149,
+		"address" : "483 Ljubertsy Parkway",
+		"city" : "Dundee",
+		"district" : "Scotland",
+		"postal_code" : "60562",
+		"phone" : "581174211853"
+	},
+	{
+		"dim_locations_key" : 752,
+		"address_key" : 147,
+		"city_key" : 266,
+		"address" : "374 Bat Yam Boulevard",
+		"city" : "Kilis",
+		"district" : "Kilis",
+		"postal_code" : "97700",
+		"phone" : "923261616249"
+	},
+	{
+		"dim_locations_key" : 753,
+		"address_key" : 148,
+		"city_key" : 340,
+		"address" : "1027 Songkhla Manor",
+		"city" : "Molodetno",
+		"district" : "Minsk",
+		"postal_code" : "30861",
+		"phone" : "563660187896"
+	},
+	{
+		"dim_locations_key" : 754,
+		"address_key" : 149,
+		"city_key" : 491,
+		"address" : "999 Sanaa Loop",
+		"city" : "Soshanguve",
+		"district" : "Gauteng",
+		"postal_code" : "3439",
+		"phone" : "918032330119"
+	},
+	{
+		"dim_locations_key" : 755,
+		"address_key" : 150,
+		"city_key" : 499,
+		"address" : "879 Newcastle Way",
+		"city" : "Sterling Heights",
+		"district" : "Michigan",
+		"postal_code" : "90732",
+		"phone" : "206841104594"
+	},
+	{
+		"dim_locations_key" : 756,
+		"address_key" : 151,
+		"city_key" : 555,
+		"address" : "1337 Lincoln Parkway",
+		"city" : "Urawa",
+		"district" : "Saitama",
+		"postal_code" : "99457",
+		"phone" : "597815221267"
+	},
+	{
+		"dim_locations_key" : 757,
+		"address_key" : 152,
+		"city_key" : 442,
+		"address" : "1952 Pune Lane",
+		"city" : "Saint-Denis",
+		"district" : "Saint-Denis",
+		"postal_code" : "92150",
+		"phone" : "354615066969"
+	},
+	{
+		"dim_locations_key" : 758,
+		"address_key" : 153,
+		"city_key" : 94,
+		"address" : "782 Mosul Street",
+		"city" : "Brockton",
+		"district" : "Massachusetts",
+		"postal_code" : "25545",
+		"phone" : "885899703621"
+	},
+	{
+		"dim_locations_key" : 759,
+		"address_key" : 154,
+		"city_key" : 202,
+		"address" : "781 Shimonoseki Drive",
+		"city" : "Hidalgo",
+		"district" : "Michoacn de Ocampo",
+		"postal_code" : "95444",
+		"phone" : "632316273199"
+	},
+	{
+		"dim_locations_key" : 760,
+		"address_key" : 155,
+		"city_key" : 291,
+		"address" : "1560 Jelets Boulevard",
+		"city" : "Laiwu",
+		"district" : "Shandong",
+		"postal_code" : "77777",
+		"phone" : "189446090264"
+	},
+	{
+		"dim_locations_key" : 761,
+		"address_key" : 156,
+		"city_key" : 354,
+		"address" : "1963 Moscow Place",
+		"city" : "Nagaon",
+		"district" : "Assam",
+		"postal_code" : "64863",
+		"phone" : "761379480249"
+	},
+	{
+		"dim_locations_key" : 762,
+		"address_key" : 157,
+		"city_key" : 232,
+		"address" : "456 Escobar Way",
+		"city" : "Jakarta",
+		"district" : "Jakarta Raya",
+		"postal_code" : "36061",
+		"phone" : "719202533520"
+	},
+	{
+		"dim_locations_key" : 763,
+		"address_key" : 158,
+		"city_key" : 590,
+		"address" : "798 Cianjur Avenue",
+		"city" : "Yuncheng",
+		"district" : "Shanxi",
+		"postal_code" : "76990",
+		"phone" : "499408708580"
+	},
+	{
+		"dim_locations_key" : 764,
+		"address_key" : 159,
+		"city_key" : 72,
+		"address" : "185 Novi Sad Place",
+		"city" : "Bern",
+		"district" : "Bern",
+		"postal_code" : "41778",
+		"phone" : "904253967161"
+	},
+	{
+		"dim_locations_key" : 765,
+		"address_key" : 160,
+		"city_key" : 381,
+		"address" : "1367 Yantai Manor",
+		"city" : "Ondo",
+		"district" : "Ondo & Ekiti",
+		"postal_code" : "21294",
+		"phone" : "889538496300"
+	},
+	{
+		"dim_locations_key" : 766,
+		"address_key" : 161,
+		"city_key" : 420,
+		"address" : "1386 Nakhon Sawan Boulevard",
+		"city" : "Pyongyang",
+		"district" : "Pyongyang-si",
+		"postal_code" : "53502",
+		"phone" : "368899174225"
+	},
+	{
+		"dim_locations_key" : 767,
+		"address_key" : 162,
+		"city_key" : 187,
+		"address" : "369 Papeete Way",
+		"city" : "Greensboro",
+		"district" : "North Carolina",
+		"postal_code" : "66639",
+		"phone" : "170117068815"
+	},
+	{
+		"dim_locations_key" : 768,
+		"address_key" : 163,
+		"city_key" : 307,
+		"address" : "1440 Compton Place",
+		"city" : "Linz",
+		"district" : "North Austria",
+		"postal_code" : "81037",
+		"phone" : "931059836497"
+	},
+	{
+		"dim_locations_key" : 769,
+		"address_key" : 164,
+		"city_key" : 310,
+		"address" : "1623 Baha Blanca Manor",
+		"city" : "Ljubertsy",
+		"district" : "Moskova",
+		"postal_code" : "81511",
+		"phone" : "149981248346"
+	},
+	{
+		"dim_locations_key" : 770,
+		"address_key" : 165,
+		"city_key" : 533,
+		"address" : "97 Shimoga Avenue",
+		"city" : "Tel Aviv-Jaffa",
+		"district" : "Tel Aviv",
+		"postal_code" : "44660",
+		"phone" : "177167004331"
+	},
+	{
+		"dim_locations_key" : 771,
+		"address_key" : 166,
+		"city_key" : 297,
+		"address" : "1740 Le Mans Loop",
+		"city" : "Le Mans",
+		"district" : "Pays de la Loire",
+		"postal_code" : "22853",
+		"phone" : "168476538960"
+	},
+	{
+		"dim_locations_key" : 772,
+		"address_key" : 167,
+		"city_key" : 253,
+		"address" : "1287 Xiangfan Boulevard",
+		"city" : "Kakamigahara",
+		"district" : "Gifu",
+		"postal_code" : "57844",
+		"phone" : "819416131190"
+	},
+	{
+		"dim_locations_key" : 773,
+		"address_key" : 168,
+		"city_key" : 529,
+		"address" : "842 Salzburg Lane",
+		"city" : "Tarsus",
+		"district" : "Adana",
+		"postal_code" : "3313",
+		"phone" : "697151428760"
+	},
+	{
+		"dim_locations_key" : 774,
+		"address_key" : 169,
+		"city_key" : 199,
+		"address" : "154 Tallahassee Loop",
+		"city" : "Hami",
+		"district" : "Xinxiang",
+		"postal_code" : "62250",
+		"phone" : "935508855935"
+	},
+	{
+		"dim_locations_key" : 775,
+		"address_key" : 170,
+		"city_key" : 304,
+		"address" : "710 San Felipe del Progreso Avenue",
+		"city" : "Lilongwe",
+		"district" : "Lilongwe",
+		"postal_code" : "76901",
+		"phone" : "843801144113"
+	},
+	{
+		"dim_locations_key" : 776,
+		"address_key" : 171,
+		"city_key" : 107,
+		"address" : "1540 Wroclaw Drive",
+		"city" : "Chandrapur",
+		"district" : "Maharashtra",
+		"postal_code" : "62686",
+		"phone" : "182363341674"
+	},
+	{
+		"dim_locations_key" : 777,
+		"address_key" : 172,
+		"city_key" : 240,
+		"address" : "475 Atinsk Way",
+		"city" : "Jinchang",
+		"district" : "Gansu",
+		"postal_code" : "59571",
+		"phone" : "201705577290"
+	},
+	{
+		"dim_locations_key" : 778,
+		"address_key" : 173,
+		"city_key" : 407,
+		"address" : "1294 Firozabad Drive",
+		"city" : "Pingxiang",
+		"district" : "Jiangxi",
+		"postal_code" : "70618",
+		"phone" : "161801569569"
+	},
+	{
+		"dim_locations_key" : 779,
+		"address_key" : 174,
+		"city_key" : 550,
+		"address" : "1877 Ezhou Lane",
+		"city" : "Udaipur",
+		"district" : "Rajasthan",
+		"postal_code" : "63337",
+		"phone" : "264541743403"
+	},
+	{
+		"dim_locations_key" : 780,
+		"address_key" : 175,
+		"city_key" : 223,
+		"address" : "316 Uruapan Street",
+		"city" : "Ipoh",
+		"district" : "Perak",
+		"postal_code" : "58194",
+		"phone" : "275788967899"
+	},
+	{
+		"dim_locations_key" : 781,
+		"address_key" : 176,
+		"city_key" : 58,
+		"address" : "29 Pyongyang Loop",
+		"city" : "Batman",
+		"district" : "Batman",
+		"postal_code" : "47753",
+		"phone" : "734780743462"
+	},
+	{
+		"dim_locations_key" : 782,
+		"address_key" : 177,
+		"city_key" : 186,
+		"address" : "1010 Klerksdorp Way",
+		"city" : "Graz",
+		"district" : "Steiermark",
+		"postal_code" : "6802",
+		"phone" : "493008546874"
+	},
+	{
+		"dim_locations_key" : 783,
+		"address_key" : 178,
+		"city_key" : 373,
+		"address" : "1848 Salala Boulevard",
+		"city" : "Ocumare del Tuy",
+		"district" : "Miranda",
+		"postal_code" : "25220",
+		"phone" : "48265851133"
+	},
+	{
+		"dim_locations_key" : 784,
+		"address_key" : 179,
+		"city_key" : 18,
+		"address" : "431 Xiangtan Avenue",
+		"city" : "Allappuzha (Alleppey)",
+		"district" : "Kerala",
+		"postal_code" : "4854",
+		"phone" : "230250973122"
+	},
+	{
+		"dim_locations_key" : 785,
+		"address_key" : 180,
+		"city_key" : 483,
+		"address" : "757 Rustenburg Avenue",
+		"city" : "Skikda",
+		"district" : "Skikda",
+		"postal_code" : "89668",
+		"phone" : "506134035434"
+	},
+	{
+		"dim_locations_key" : 786,
+		"address_key" : 181,
+		"city_key" : 330,
+		"address" : "146 Johannesburg Way",
+		"city" : "Matamoros",
+		"district" : "Tamaulipas",
+		"postal_code" : "54132",
+		"phone" : "953689007081"
+	},
+	{
+		"dim_locations_key" : 787,
+		"address_key" : 182,
+		"city_key" : 456,
+		"address" : "1891 Rizhao Boulevard",
+		"city" : "Santa Brbara dOeste",
+		"district" : "So Paulo",
+		"postal_code" : "47288",
+		"phone" : "391065549876"
+	},
+	{
+		"dim_locations_key" : 788,
+		"address_key" : 183,
+		"city_key" : 270,
+		"address" : "1089 Iwatsuki Avenue",
+		"city" : "Kirovo-Tepetsk",
+		"district" : "Kirov",
+		"postal_code" : "35109",
+		"phone" : "866092335135"
+	},
+	{
+		"dim_locations_key" : 789,
+		"address_key" : 184,
+		"city_key" : 405,
+		"address" : "1410 Benin City Parkway",
+		"city" : "Pereira",
+		"district" : "Risaralda",
+		"postal_code" : "29747",
+		"phone" : "104150372603"
+	},
+	{
+		"dim_locations_key" : 790,
+		"address_key" : 185,
+		"city_key" : 333,
+		"address" : "682 Garden Grove Place",
+		"city" : "Memphis",
+		"district" : "Tennessee",
+		"postal_code" : "67497",
+		"phone" : "72136330362"
+	},
+	{
+		"dim_locations_key" : 791,
+		"address_key" : 186,
+		"city_key" : 126,
+		"address" : "533 al-Ayn Boulevard",
+		"city" : "Compton",
+		"district" : "California",
+		"postal_code" : "8862",
+		"phone" : "662227486184"
+	},
+	{
+		"dim_locations_key" : 792,
+		"address_key" : 187,
+		"city_key" : 317,
+		"address" : "1839 Szkesfehrvr Parkway",
+		"city" : "Luzinia",
+		"district" : "Gois",
+		"postal_code" : "55709",
+		"phone" : "947468818183"
+	},
+	{
+		"dim_locations_key" : 793,
+		"address_key" : 188,
+		"city_key" : 438,
+		"address" : "741 Ambattur Manor",
+		"city" : "s-Hertogenbosch",
+		"district" : "Noord-Brabant",
+		"postal_code" : "43310",
+		"phone" : "302590383819"
+	},
+	{
+		"dim_locations_key" : 794,
+		"address_key" : 189,
+		"city_key" : 467,
+		"address" : "927 Barcelona Street",
+		"city" : "Shahr-e Kord",
+		"district" : "Chaharmahal va Bakht",
+		"postal_code" : "65121",
+		"phone" : "951486492670"
+	},
+	{
+		"dim_locations_key" : 795,
+		"address_key" : 190,
+		"city_key" : 195,
+		"address" : "435 0 Way",
+		"city" : "Haldia",
+		"district" : "West Bengali",
+		"postal_code" : "74750",
+		"phone" : "760171523969"
+	},
+	{
+		"dim_locations_key" : 796,
+		"address_key" : 191,
+		"city_key" : 506,
+		"address" : "140 Chiayi Parkway",
+		"city" : "Sumy",
+		"district" : "Sumy",
+		"postal_code" : "38982",
+		"phone" : "855863906434"
+	},
+	{
+		"dim_locations_key" : 797,
+		"address_key" : 192,
+		"city_key" : 62,
+		"address" : "1166 Changhwa Street",
+		"city" : "Bayugan",
+		"district" : "Caraga",
+		"postal_code" : "58852",
+		"phone" : "650752094490"
+	},
+	{
+		"dim_locations_key" : 798,
+		"address_key" : 193,
+		"city_key" : 383,
+		"address" : "891 Novi Sad Manor",
+		"city" : "Oshawa",
+		"district" : "Ontario",
+		"postal_code" : "5379",
+		"phone" : "247646995453"
+	},
+	{
+		"dim_locations_key" : 799,
+		"address_key" : 194,
+		"city_key" : 513,
+		"address" : "605 Rio Claro Parkway",
+		"city" : "Tabora",
+		"district" : "Tabora",
+		"postal_code" : "49348",
+		"phone" : "352469351088"
+	},
+	{
+		"dim_locations_key" : 800,
+		"address_key" : 195,
+		"city_key" : 369,
+		"address" : "1077 San Felipe de Puerto Plata Place",
+		"city" : "Novoterkassk",
+		"district" : "Rostov-na-Donu",
+		"postal_code" : "65387",
+		"phone" : "812824036424"
+	},
+	{
+		"dim_locations_key" : 801,
+		"address_key" : 196,
+		"city_key" : 169,
+		"address" : "9 San Miguel de Tucumn Manor",
+		"city" : "Firozabad",
+		"district" : "Uttar Pradesh",
+		"postal_code" : "90845",
+		"phone" : "956188728558"
+	},
+	{
+		"dim_locations_key" : 802,
+		"address_key" : 197,
+		"city_key" : 271,
+		"address" : "447 Surakarta Loop",
+		"city" : "Kisumu",
+		"district" : "Nyanza",
+		"postal_code" : "10428",
+		"phone" : "940830176580"
+	},
+	{
+		"dim_locations_key" : 803,
+		"address_key" : 198,
+		"city_key" : 204,
+		"address" : "345 Oshawa Boulevard",
+		"city" : "Hino",
+		"district" : "Tokyo-to",
+		"postal_code" : "32114",
+		"phone" : "104491201771"
+	},
+	{
+		"dim_locations_key" : 804,
+		"address_key" : 199,
+		"city_key" : 477,
+		"address" : "1792 Valle de la Pascua Place",
+		"city" : "Siegen",
+		"district" : "Nordrhein-Westfalen",
+		"postal_code" : "15540",
+		"phone" : "419419591240"
+	},
+	{
+		"dim_locations_key" : 805,
+		"address_key" : 200,
+		"city_key" : 325,
+		"address" : "1074 Binzhou Manor",
+		"city" : "Mannheim",
+		"district" : "Baden-Wrttemberg",
+		"postal_code" : "36490",
+		"phone" : "331132568928"
+	},
+	{
+		"dim_locations_key" : 806,
+		"address_key" : 201,
+		"city_key" : 109,
+		"address" : "817 Bradford Loop",
+		"city" : "Changzhou",
+		"district" : "Jiangsu",
+		"postal_code" : "89459",
+		"phone" : "264286442804"
+	},
+	{
+		"dim_locations_key" : 807,
+		"address_key" : 202,
+		"city_key" : 218,
+		"address" : "955 Bamenda Way",
+		"city" : "Ikerre",
+		"district" : "Ondo & Ekiti",
+		"postal_code" : "1545",
+		"phone" : "768481779568"
+	},
+	{
+		"dim_locations_key" : 808,
+		"address_key" : 203,
+		"city_key" : 194,
+		"address" : "1149 A Corua (La Corua) Boulevard",
+		"city" : "Haiphong",
+		"district" : "Haiphong",
+		"postal_code" : "95824",
+		"phone" : "470884141195"
+	},
+	{
+		"dim_locations_key" : 809,
+		"address_key" : 204,
+		"city_key" : 35,
+		"address" : "387 Mwene-Ditu Drive",
+		"city" : "Ashgabat",
+		"district" : "Ahal",
+		"postal_code" : "8073",
+		"phone" : "764477681869"
+	},
+	{
+		"dim_locations_key" : 810,
+		"address_key" : 205,
+		"city_key" : 575,
+		"address" : "68 Molodetno Manor",
+		"city" : "Witten",
+		"district" : "Nordrhein-Westfalen",
+		"postal_code" : "4662",
+		"phone" : "146640639760"
+	},
+	{
+		"dim_locations_key" : 811,
+		"address_key" : 206,
+		"city_key" : 77,
+		"address" : "642 Nador Drive",
+		"city" : "Bhusawal",
+		"district" : "Maharashtra",
+		"postal_code" : "3924",
+		"phone" : "369050085652"
+	},
+	{
+		"dim_locations_key" : 812,
+		"address_key" : 207,
+		"city_key" : 184,
+		"address" : "1688 Nador Lane",
+		"city" : "Gorontalo",
+		"district" : "Sulawesi Utara",
+		"postal_code" : "61613",
+		"phone" : "652218196731"
+	},
+	{
+		"dim_locations_key" : 813,
+		"address_key" : 208,
+		"city_key" : 557,
+		"address" : "1215 Pyongyang Parkway",
+		"city" : "Usak",
+		"district" : "Usak",
+		"postal_code" : "25238",
+		"phone" : "646237101779"
+	},
+	{
+		"dim_locations_key" : 814,
+		"address_key" : 209,
+		"city_key" : 122,
+		"address" : "1679 Antofagasta Street",
+		"city" : "Ciudad del Este",
+		"district" : "Alto Paran",
+		"postal_code" : "86599",
+		"phone" : "905903574913"
+	},
+	{
+		"dim_locations_key" : 815,
+		"address_key" : 210,
+		"city_key" : 83,
+		"address" : "1304 s-Hertogenbosch Way",
+		"city" : "Blumenau",
+		"district" : "Santa Catarina",
+		"postal_code" : "10925",
+		"phone" : "90336226227"
+	},
+	{
+		"dim_locations_key" : 816,
+		"address_key" : 211,
+		"city_key" : 371,
+		"address" : "850 Salala Loop",
+		"city" : "Nuuk",
+		"district" : "Kitaa",
+		"postal_code" : "10800",
+		"phone" : "403404780639"
+	},
+	{
+		"dim_locations_key" : 817,
+		"address_key" : 212,
+		"city_key" : 51,
+		"address" : "624 Oshawa Boulevard",
+		"city" : "Balurghat",
+		"district" : "West Bengali",
+		"postal_code" : "89959",
+		"phone" : "49677664184"
+	},
+	{
+		"dim_locations_key" : 818,
+		"address_key" : 213,
+		"city_key" : 74,
+		"address" : "43 Dadu Avenue",
+		"city" : "Bhilwara",
+		"district" : "Rajasthan",
+		"postal_code" : "4855",
+		"phone" : "95666951770"
+	},
+	{
+		"dim_locations_key" : 819,
+		"address_key" : 214,
+		"city_key" : 7,
+		"address" : "751 Lima Loop",
+		"city" : "Aden",
+		"district" : "Aden",
+		"postal_code" : "99405",
+		"phone" : "756460337785"
+	},
+	{
+		"dim_locations_key" : 820,
+		"address_key" : 215,
+		"city_key" : 174,
+		"address" : "1333 Haldia Street",
+		"city" : "Fuyu",
+		"district" : "Jilin",
+		"postal_code" : "82161",
+		"phone" : "408304391718"
+	},
+	{
+		"dim_locations_key" : 821,
+		"address_key" : 216,
+		"city_key" : 65,
+		"address" : "660 Jedda Boulevard",
+		"city" : "Bellevue",
+		"district" : "Washington",
+		"postal_code" : "25053",
+		"phone" : "168758068397"
+	},
+	{
+		"dim_locations_key" : 822,
+		"address_key" : 217,
+		"city_key" : 518,
+		"address" : "1001 Miyakonojo Lane",
+		"city" : "Taizz",
+		"district" : "Taizz",
+		"postal_code" : "67924",
+		"phone" : "584316724815"
+	},
+	{
+		"dim_locations_key" : 823,
+		"address_key" : 218,
+		"city_key" : 508,
+		"address" : "226 Brest Manor",
+		"city" : "Sunnyvale",
+		"district" : "California",
+		"postal_code" : "2299",
+		"phone" : "785881412500"
+	},
+	{
+		"dim_locations_key" : 824,
+		"address_key" : 219,
+		"city_key" : 498,
+		"address" : "1229 Valencia Parkway",
+		"city" : "Stara Zagora",
+		"district" : "Haskovo",
+		"postal_code" : "99124",
+		"phone" : "352679173732"
+	},
+	{
+		"dim_locations_key" : 825,
+		"address_key" : 220,
+		"city_key" : 28,
+		"address" : "1201 Qomsheh Manor",
+		"city" : "Aparecida de Goinia",
+		"district" : "Gois",
+		"postal_code" : "21464",
+		"phone" : "873492228462"
+	},
+	{
+		"dim_locations_key" : 826,
+		"address_key" : 221,
+		"city_key" : 448,
+		"address" : "866 Shivapuri Manor",
+		"city" : "Sambhal",
+		"district" : "Uttar Pradesh",
+		"postal_code" : "22474",
+		"phone" : "778502731092"
+	},
+	{
+		"dim_locations_key" : 827,
+		"address_key" : 222,
+		"city_key" : 251,
+		"address" : "1168 Najafabad Parkway",
+		"city" : "Kabul",
+		"district" : "Kabol",
+		"postal_code" : "40301",
+		"phone" : "886649065861"
+	},
+	{
+		"dim_locations_key" : 828,
+		"address_key" : 223,
+		"city_key" : 567,
+		"address" : "1244 Allappuzha (Alleppey) Place",
+		"city" : "Vicente Lpez",
+		"district" : "Buenos Aires",
+		"postal_code" : "20657",
+		"phone" : "991802825778"
+	},
+	{
+		"dim_locations_key" : 829,
+		"address_key" : 224,
+		"city_key" : 593,
+		"address" : "1842 Luzinia Boulevard",
+		"city" : "Zanzibar",
+		"district" : "Zanzibar West",
+		"postal_code" : "94420",
+		"phone" : "706878974831"
+	},
+	{
+		"dim_locations_key" : 830,
+		"address_key" : 225,
+		"city_key" : 511,
+		"address" : "1926 Gingoog Street",
+		"city" : "Syrakusa",
+		"district" : "Sisilia",
+		"postal_code" : "22824",
+		"phone" : "469738825391"
+	},
+	{
+		"dim_locations_key" : 831,
+		"address_key" : 226,
+		"city_key" : 235,
+		"address" : "810 Palghat (Palakkad) Boulevard",
+		"city" : "Jaroslavl",
+		"district" : "Jaroslavl",
+		"postal_code" : "73431",
+		"phone" : "516331171356"
+	},
+	{
+		"dim_locations_key" : 832,
+		"address_key" : 227,
+		"city_key" : 324,
+		"address" : "1820 Maring Parkway",
+		"city" : "Mandi Bahauddin",
+		"district" : "Punjab",
+		"postal_code" : "88307",
+		"phone" : "99760893676"
+	},
+	{
+		"dim_locations_key" : 833,
+		"address_key" : 228,
+		"city_key" : 243,
+		"address" : "60 Poos de Caldas Street",
+		"city" : "Jodhpur",
+		"district" : "Rajasthan",
+		"postal_code" : "82338",
+		"phone" : "963063788669"
+	},
+	{
+		"dim_locations_key" : 834,
+		"address_key" : 229,
+		"city_key" : 22,
+		"address" : "1014 Loja Manor",
+		"city" : "Ambattur",
+		"district" : "Tamil Nadu",
+		"postal_code" : "66851",
+		"phone" : "460795526514"
+	},
+	{
+		"dim_locations_key" : 835,
+		"address_key" : 230,
+		"city_key" : 37,
+		"address" : "201 Effon-Alaiye Way",
+		"city" : "Asuncin",
+		"district" : "Asuncin",
+		"postal_code" : "64344",
+		"phone" : "684192903087"
+	},
+	{
+		"dim_locations_key" : 836,
+		"address_key" : 231,
+		"city_key" : 439,
+		"address" : "430 Alessandria Loop",
+		"city" : "Saarbrcken",
+		"district" : "Saarland",
+		"postal_code" : "47446",
+		"phone" : "669828224459"
+	},
+	{
+		"dim_locations_key" : 837,
+		"address_key" : 232,
+		"city_key" : 406,
+		"address" : "754 Valencia Place",
+		"city" : "Phnom Penh",
+		"district" : "Phnom Penh",
+		"postal_code" : "87911",
+		"phone" : "594319417514"
+	},
+	{
+		"dim_locations_key" : 838,
+		"address_key" : 233,
+		"city_key" : 26,
+		"address" : "356 Olomouc Manor",
+		"city" : "Anpolis",
+		"district" : "Gois",
+		"postal_code" : "93323",
+		"phone" : "22326410776"
+	},
+	{
+		"dim_locations_key" : 839,
+		"address_key" : 234,
+		"city_key" : 86,
+		"address" : "1256 Bislig Boulevard",
+		"city" : "Botosani",
+		"district" : "Botosani",
+		"postal_code" : "50598",
+		"phone" : "479007229460"
+	},
+	{
+		"dim_locations_key" : 840,
+		"address_key" : 235,
+		"city_key" : 559,
+		"address" : "954 Kimchon Place",
+		"city" : "Uttarpara-Kotrung",
+		"district" : "West Bengali",
+		"postal_code" : "42420",
+		"phone" : "541327526474"
+	},
+	{
+		"dim_locations_key" : 841,
+		"address_key" : 236,
+		"city_key" : 596,
+		"address" : "885 Yingkou Manor",
+		"city" : "Zaria",
+		"district" : "Kaduna",
+		"postal_code" : "31390",
+		"phone" : "588964509072"
+	},
+	{
+		"dim_locations_key" : 842,
+		"address_key" : 237,
+		"city_key" : 216,
+		"address" : "1736 Cavite Place",
+		"city" : "Idfu",
+		"district" : "Qina",
+		"postal_code" : "98775",
+		"phone" : "431770603551"
+	},
+	{
+		"dim_locations_key" : 843,
+		"address_key" : 238,
+		"city_key" : 233,
+		"address" : "346 Skikda Parkway",
+		"city" : "Jalib al-Shuyukh",
+		"district" : "Hawalli",
+		"postal_code" : "90628",
+		"phone" : "630424482919"
+	},
+	{
+		"dim_locations_key" : 844,
+		"address_key" : 239,
+		"city_key" : 96,
+		"address" : "98 Stara Zagora Boulevard",
+		"city" : "Buenaventura",
+		"district" : "Valle",
+		"postal_code" : "76448",
+		"phone" : "610173756082"
+	},
+	{
+		"dim_locations_key" : 845,
+		"address_key" : 240,
+		"city_key" : 527,
+		"address" : "1479 Rustenburg Boulevard",
+		"city" : "Tanza",
+		"district" : "Southern Tagalog",
+		"postal_code" : "18727",
+		"phone" : "727785483194"
+	},
+	{
+		"dim_locations_key" : 846,
+		"address_key" : 241,
+		"city_key" : 357,
+		"address" : "647 A Corua (La Corua) Street",
+		"city" : "Naju",
+		"district" : "Chollanam",
+		"postal_code" : "36971",
+		"phone" : "792557457753"
+	},
+	{
+		"dim_locations_key" : 847,
+		"address_key" : 242,
+		"city_key" : 473,
+		"address" : "1964 Gijn Manor",
+		"city" : "Shimoga",
+		"district" : "Karnataka",
+		"postal_code" : "14408",
+		"phone" : "918119601885"
+	},
+	{
+		"dim_locations_key" : 848,
+		"address_key" : 243,
+		"city_key" : 118,
+		"address" : "47 Syktyvkar Lane",
+		"city" : "Ciomas",
+		"district" : "West Java",
+		"postal_code" : "22236",
+		"phone" : "63937119031"
+	},
+	{
+		"dim_locations_key" : 849,
+		"address_key" : 244,
+		"city_key" : 226,
+		"address" : "1148 Saarbrcken Parkway",
+		"city" : "Iwaki",
+		"district" : "Fukushima",
+		"postal_code" : "1921",
+		"phone" : "137773001988"
+	},
+	{
+		"dim_locations_key" : 850,
+		"address_key" : 245,
+		"city_key" : 578,
+		"address" : "1103 Bilbays Parkway",
+		"city" : "Xiangfan",
+		"district" : "Hubei",
+		"postal_code" : "87660",
+		"phone" : "279979529227"
+	},
+	{
+		"dim_locations_key" : 851,
+		"address_key" : 246,
+		"city_key" : 422,
+		"address" : "1246 Boksburg Parkway",
+		"city" : "Qinhuangdao",
+		"district" : "Hebei",
+		"postal_code" : "28349",
+		"phone" : "890283544295"
+	},
+	{
+		"dim_locations_key" : 852,
+		"address_key" : 247,
+		"city_key" : 454,
+		"address" : "1483 Pathankot Street",
+		"city" : "San Miguel de Tucumn",
+		"district" : "Tucumn",
+		"postal_code" : "37288",
+		"phone" : "686015532180"
+	},
+	{
+		"dim_locations_key" : 853,
+		"address_key" : 248,
+		"city_key" : 294,
+		"address" : "582 Papeete Loop",
+		"city" : "Lapu-Lapu",
+		"district" : "Central Visayas",
+		"postal_code" : "27722",
+		"phone" : "569868543137"
+	},
+	{
+		"dim_locations_key" : 854,
+		"address_key" : 249,
+		"city_key" : 553,
+		"address" : "300 Junan Street",
+		"city" : "Uijongbu",
+		"district" : "Kyonggi",
+		"postal_code" : "81314",
+		"phone" : "890289150158"
+	},
+	{
+		"dim_locations_key" : 855,
+		"address_key" : 250,
+		"city_key" : 328,
+		"address" : "829 Grand Prairie Way",
+		"city" : "Maring",
+		"district" : "Paran",
+		"postal_code" : "6461",
+		"phone" : "741070712873"
+	},
+	{
+		"dim_locations_key" : 856,
+		"address_key" : 251,
+		"city_key" : 124,
+		"address" : "1473 Changhwa Parkway",
+		"city" : "Coacalco de Berriozbal",
+		"district" : "Mxico",
+		"postal_code" : "75933",
+		"phone" : "266798132374"
+	},
+	{
+		"dim_locations_key" : 857,
+		"address_key" : 252,
+		"city_key" : 520,
+		"address" : "1309 Weifang Street",
+		"city" : "Tallahassee",
+		"district" : "Florida",
+		"postal_code" : "57338",
+		"phone" : "435785045362"
+	},
+	{
+		"dim_locations_key" : 858,
+		"address_key" : 253,
+		"city_key" : 535,
+		"address" : "1760 Oshawa Manor",
+		"city" : "Tianjin",
+		"district" : "Tianjin",
+		"postal_code" : "38140",
+		"phone" : "56257502250"
+	},
+	{
+		"dim_locations_key" : 859,
+		"address_key" : 254,
+		"city_key" : 390,
+		"address" : "786 Stara Zagora Way",
+		"city" : "Oyo",
+		"district" : "Oyo & Osun",
+		"postal_code" : "98332",
+		"phone" : "716256596301"
+	},
+	{
+		"dim_locations_key" : 860,
+		"address_key" : 255,
+		"city_key" : 198,
+		"address" : "1966 Tonghae Street",
+		"city" : "Halle/Saale",
+		"district" : "Anhalt Sachsen",
+		"postal_code" : "36481",
+		"phone" : "567359279425"
+	},
+	{
+		"dim_locations_key" : 861,
+		"address_key" : 256,
+		"city_key" : 312,
+		"address" : "1497 Yuzhou Drive",
+		"city" : "London",
+		"district" : "England",
+		"postal_code" : "3433",
+		"phone" : "246810237916"
+	},
+	{
+		"dim_locations_key" : 862,
+		"address_key" : 258,
+		"city_key" : 338,
+		"address" : "752 Ondo Loop",
+		"city" : "Miyakonojo",
+		"district" : "Miyazaki",
+		"postal_code" : "32474",
+		"phone" : "134673576619"
+	},
+	{
+		"dim_locations_key" : 863,
+		"address_key" : 259,
+		"city_key" : 413,
+		"address" : "1338 Zalantun Lane",
+		"city" : "Poos de Caldas",
+		"district" : "Minas Gerais",
+		"postal_code" : "45403",
+		"phone" : "840522972766"
+	},
+	{
+		"dim_locations_key" : 864,
+		"address_key" : 260,
+		"city_key" : 192,
+		"address" : "127 Iwakuni Boulevard",
+		"city" : "Hagonoy",
+		"district" : "Central Luzon",
+		"postal_code" : "20777",
+		"phone" : "987442542471"
+	},
+	{
+		"dim_locations_key" : 865,
+		"address_key" : 261,
+		"city_key" : 342,
+		"address" : "51 Laredo Avenue",
+		"city" : "Monywa",
+		"district" : "Sagaing",
+		"postal_code" : "68146",
+		"phone" : "884536620568"
+	},
+	{
+		"dim_locations_key" : 866,
+		"address_key" : 262,
+		"city_key" : 64,
+		"address" : "771 Yaound Manor",
+		"city" : "Beira",
+		"district" : "Sofala",
+		"postal_code" : "86768",
+		"phone" : "245477603573"
+	},
+	{
+		"dim_locations_key" : 867,
+		"address_key" : 263,
+		"city_key" : 460,
+		"address" : "532 Toulon Street",
+		"city" : "Santiago de los Caballeros",
+		"district" : "Santiago",
+		"postal_code" : "69517",
+		"phone" : "46871694740"
+	},
+	{
+		"dim_locations_key" : 868,
+		"address_key" : 264,
+		"city_key" : 197,
+		"address" : "1027 Banjul Place",
+		"city" : "Halisahar",
+		"district" : "West Bengali",
+		"postal_code" : "50390",
+		"phone" : "538241037443"
+	},
+	{
+		"dim_locations_key" : 869,
+		"address_key" : 265,
+		"city_key" : 136,
+		"address" : "1158 Mandi Bahauddin Parkway",
+		"city" : "Datong",
+		"district" : "Shanxi",
+		"postal_code" : "98484",
+		"phone" : "276555730211"
+	},
+	{
+		"dim_locations_key" : 870,
+		"address_key" : 266,
+		"city_key" : 548,
+		"address" : "862 Xintai Lane",
+		"city" : "Tuguegarao",
+		"district" : "Cagayan Valley",
+		"postal_code" : "30065",
+		"phone" : "265153400632"
+	},
+	{
+		"dim_locations_key" : 871,
+		"address_key" : 267,
+		"city_key" : 414,
+		"address" : "816 Cayenne Parkway",
+		"city" : "Portoviejo",
+		"district" : "Manab",
+		"postal_code" : "93629",
+		"phone" : "282874611748"
+	},
+	{
+		"dim_locations_key" : 872,
+		"address_key" : 268,
+		"city_key" : 323,
+		"address" : "1831 Nam Dinh Loop",
+		"city" : "Mandaluyong",
+		"district" : "National Capital Reg",
+		"postal_code" : "51990",
+		"phone" : "322888976727"
+	},
+	{
+		"dim_locations_key" : 873,
+		"address_key" : 269,
+		"city_key" : 203,
+		"address" : "446 Kirovo-Tepetsk Lane",
+		"city" : "Higashiosaka",
+		"district" : "Osaka",
+		"postal_code" : "19428",
+		"phone" : "303967439816"
+	},
+	{
+		"dim_locations_key" : 874,
+		"address_key" : 270,
+		"city_key" : 378,
+		"address" : "682 Halisahar Place",
+		"city" : "Olomouc",
+		"district" : "Severn Morava",
+		"postal_code" : "20536",
+		"phone" : "475553436330"
+	},
+	{
+		"dim_locations_key" : 875,
+		"address_key" : 271,
+		"city_key" : 447,
+		"address" : "1587 Loja Manor",
+		"city" : "Salzburg",
+		"district" : "Salzburg",
+		"postal_code" : "5410",
+		"phone" : "621625204422"
+	},
+	{
+		"dim_locations_key" : 876,
+		"address_key" : 272,
+		"city_key" : 298,
+		"address" : "1762 Paarl Parkway",
+		"city" : "Lengshuijiang",
+		"district" : "Hunan",
+		"postal_code" : "53928",
+		"phone" : "192459639410"
+	},
+	{
+		"dim_locations_key" : 877,
+		"address_key" : 273,
+		"city_key" : 395,
+		"address" : "1519 Ilorin Place",
+		"city" : "Palghat (Palakkad)",
+		"district" : "Kerala",
+		"postal_code" : "49298",
+		"phone" : "357445645426"
+	},
+	{
+		"dim_locations_key" : 878,
+		"address_key" : 274,
+		"city_key" : 446,
+		"address" : "920 Kumbakonam Loop",
+		"city" : "Salinas",
+		"district" : "California",
+		"postal_code" : "75090",
+		"phone" : "685010736240"
+	},
+	{
+		"dim_locations_key" : 879,
+		"address_key" : 275,
+		"city_key" : 255,
+		"address" : "906 Goinia Way",
+		"city" : "Kalisz",
+		"district" : "Wielkopolskie",
+		"postal_code" : "83565",
+		"phone" : "701767622697"
+	},
+	{
+		"dim_locations_key" : 880,
+		"address_key" : 276,
+		"city_key" : 283,
+		"address" : "1675 Xiangfan Manor",
+		"city" : "Kumbakonam",
+		"district" : "Tamil Nadu",
+		"postal_code" : "11763",
+		"phone" : "271149517630"
+	},
+	{
+		"dim_locations_key" : 881,
+		"address_key" : 277,
+		"city_key" : 584,
+		"address" : "85 San Felipe de Puerto Plata Drive",
+		"city" : "Yantai",
+		"district" : "Shandong",
+		"postal_code" : "46063",
+		"phone" : "170739645687"
+	},
+	{
+		"dim_locations_key" : 882,
+		"address_key" : 278,
+		"city_key" : 445,
+		"address" : "144 South Hill Loop",
+		"city" : "Salamanca",
+		"district" : "Guanajuato",
+		"postal_code" : "2012",
+		"phone" : "45387294817"
+	},
+	{
+		"dim_locations_key" : 883,
+		"address_key" : 279,
+		"city_key" : 263,
+		"address" : "1884 Shikarpur Avenue",
+		"city" : "Karnal",
+		"district" : "Haryana",
+		"postal_code" : "85548",
+		"phone" : "959949395183"
+	},
+	{
+		"dim_locations_key" : 884,
+		"address_key" : 280,
+		"city_key" : 404,
+		"address" : "1980 Kamjanets-Podilskyi Street",
+		"city" : "Peoria",
+		"district" : "Illinois",
+		"postal_code" : "89502",
+		"phone" : "874337098891"
+	},
+	{
+		"dim_locations_key" : 885,
+		"address_key" : 281,
+		"city_key" : 573,
+		"address" : "1944 Bamenda Way",
+		"city" : "Warren",
+		"district" : "Michigan",
+		"postal_code" : "24645",
+		"phone" : "75975221996"
+	},
+	{
+		"dim_locations_key" : 886,
+		"address_key" : 282,
+		"city_key" : 374,
+		"address" : "556 Baybay Manor",
+		"city" : "Ogbomosho",
+		"district" : "Oyo & Osun",
+		"postal_code" : "55802",
+		"phone" : "363982224739"
+	},
+	{
+		"dim_locations_key" : 887,
+		"address_key" : 283,
+		"city_key" : 222,
+		"address" : "457 Tongliao Loop",
+		"city" : "Inegl",
+		"district" : "Bursa",
+		"postal_code" : "56254",
+		"phone" : "880756161823"
+	},
+	{
+		"dim_locations_key" : 888,
+		"address_key" : 284,
+		"city_key" : 514,
+		"address" : "600 Bradford Street",
+		"city" : "Tabriz",
+		"district" : "East Azerbaidzan",
+		"postal_code" : "96204",
+		"phone" : "117592274996"
+	},
+	{
+		"dim_locations_key" : 889,
+		"address_key" : 285,
+		"city_key" : 389,
+		"address" : "1006 Santa Brbara dOeste Manor",
+		"city" : "Owo",
+		"district" : "Ondo & Ekiti",
+		"postal_code" : "36229",
+		"phone" : "85059738746"
+	},
+	{
+		"dim_locations_key" : 890,
+		"address_key" : 286,
+		"city_key" : 175,
+		"address" : "1308 Sumy Loop",
+		"city" : "Fuzhou",
+		"district" : "Fujian",
+		"postal_code" : "30657",
+		"phone" : "583021225407"
+	},
+	{
+		"dim_locations_key" : 891,
+		"address_key" : 287,
+		"city_key" : 411,
+		"address" : "1405 Chisinau Place",
+		"city" : "Ponce",
+		"district" : "Ponce",
+		"postal_code" : "8160",
+		"phone" : "62781725285"
+	},
+	{
+		"dim_locations_key" : 892,
+		"address_key" : 288,
+		"city_key" : 277,
+		"address" : "226 Halifax Street",
+		"city" : "Korla",
+		"district" : "Xinxiang",
+		"postal_code" : "58492",
+		"phone" : "790651020929"
+	},
+	{
+		"dim_locations_key" : 893,
+		"address_key" : 289,
+		"city_key" : 69,
+		"address" : "1279 Udine Parkway",
+		"city" : "Benin City",
+		"district" : "Edo & Delta",
+		"postal_code" : "75860",
+		"phone" : "195003555232"
+	},
+	{
+		"dim_locations_key" : 894,
+		"address_key" : 290,
+		"city_key" : 386,
+		"address" : "1336 Benin City Drive",
+		"city" : "Otsu",
+		"district" : "Shiga",
+		"postal_code" : "46044",
+		"phone" : "341242939532"
+	},
+	{
+		"dim_locations_key" : 895,
+		"address_key" : 291,
+		"city_key" : 152,
+		"address" : "1155 Liaocheng Place",
+		"city" : "Effon-Alaiye",
+		"district" : "Oyo & Osun",
+		"postal_code" : "22650",
+		"phone" : "558236142492"
+	},
+	{
+		"dim_locations_key" : 896,
+		"address_key" : 292,
+		"city_key" : 522,
+		"address" : "1993 Tabuk Lane",
+		"city" : "Tambaram",
+		"district" : "Tamil Nadu",
+		"postal_code" : "64221",
+		"phone" : "648482415405"
+	},
+	{
+		"dim_locations_key" : 897,
+		"address_key" : 293,
+		"city_key" : 563,
+		"address" : "86 Higashiosaka Lane",
+		"city" : "Valle de Santiago",
+		"district" : "Guanajuato",
+		"postal_code" : "33768",
+		"phone" : "957128697225"
+	},
+	{
+		"dim_locations_key" : 898,
+		"address_key" : 294,
+		"city_key" : 279,
+		"address" : "1912 Allende Manor",
+		"city" : "Kowloon and New Kowloon",
+		"district" : "Kowloon and New Kowl",
+		"postal_code" : "58124",
+		"phone" : "172262454487"
+	},
+	{
+		"dim_locations_key" : 899,
+		"address_key" : 295,
+		"city_key" : 562,
+		"address" : "544 Tarsus Boulevard",
+		"city" : "Valle de la Pascua",
+		"district" : "Gurico",
+		"postal_code" : "53145",
+		"phone" : "892523334"
+	},
+	{
+		"dim_locations_key" : 900,
+		"address_key" : 296,
+		"city_key" : 433,
+		"address" : "1936 Cuman Avenue",
+		"city" : "Roanoke",
+		"district" : "Virginia",
+		"postal_code" : "61195",
+		"phone" : "976798660411"
+	},
+	{
+		"dim_locations_key" : 901,
+		"address_key" : 297,
+		"city_key" : 470,
+		"address" : "1192 Tongliao Street",
+		"city" : "Sharja",
+		"district" : "Sharja",
+		"postal_code" : "19065",
+		"phone" : "350970907017"
+	},
+	{
+		"dim_locations_key" : 902,
+		"address_key" : 298,
+		"city_key" : 146,
+		"address" : "44 Najafabad Way",
+		"city" : "Donostia-San Sebastin",
+		"district" : "Baskimaa",
+		"postal_code" : "61391",
+		"phone" : "96604821070"
+	},
+	{
+		"dim_locations_key" : 903,
+		"address_key" : 299,
+		"city_key" : 140,
+		"address" : "32 Pudukkottai Lane",
+		"city" : "Dayton",
+		"district" : "Ohio",
+		"postal_code" : "38834",
+		"phone" : "967274728547"
+	},
+	{
+		"dim_locations_key" : 904,
+		"address_key" : 300,
+		"city_key" : 274,
+		"address" : "661 Chisinau Lane",
+		"city" : "Kolpino",
+		"district" : "Pietari",
+		"postal_code" : "8856",
+		"phone" : "816436065431"
+	},
+	{
+		"dim_locations_key" : 905,
+		"address_key" : 301,
+		"city_key" : 400,
+		"address" : "951 Stara Zagora Manor",
+		"city" : "Patiala",
+		"district" : "Punjab",
+		"postal_code" : "98573",
+		"phone" : "429925609431"
+	},
+	{
+		"dim_locations_key" : 906,
+		"address_key" : 302,
+		"city_key" : 9,
+		"address" : "922 Vila Velha Loop",
+		"city" : "Ahmadnagar",
+		"district" : "Maharashtra",
+		"postal_code" : "4085",
+		"phone" : "510737228015"
+	},
+	{
+		"dim_locations_key" : 907,
+		"address_key" : 303,
+		"city_key" : 387,
+		"address" : "898 Jining Lane",
+		"city" : "Oulu",
+		"district" : "Pohjois-Pohjanmaa",
+		"postal_code" : "40070",
+		"phone" : "161643343536"
+	},
+	{
+		"dim_locations_key" : 908,
+		"address_key" : 304,
+		"city_key" : 205,
+		"address" : "1635 Kuwana Boulevard",
+		"city" : "Hiroshima",
+		"district" : "Hiroshima",
+		"postal_code" : "52137",
+		"phone" : "710603868323"
+	},
+	{
+		"dim_locations_key" : 909,
+		"address_key" : 305,
+		"city_key" : 398,
+		"address" : "41 El Alto Parkway",
+		"city" : "Parbhani",
+		"district" : "Maharashtra",
+		"postal_code" : "56883",
+		"phone" : "51917807050"
+	},
+	{
+		"dim_locations_key" : 910,
+		"address_key" : 306,
+		"city_key" : 254,
+		"address" : "1883 Maikop Lane",
+		"city" : "Kaliningrad",
+		"district" : "Kaliningrad",
+		"postal_code" : "68469",
+		"phone" : "96110042435"
+	},
+	{
+		"dim_locations_key" : 911,
+		"address_key" : 307,
+		"city_key" : 536,
+		"address" : "1908 Gaziantep Place",
+		"city" : "Tiefa",
+		"district" : "Liaoning",
+		"postal_code" : "58979",
+		"phone" : "108053751300"
+	},
+	{
+		"dim_locations_key" : 912,
+		"address_key" : 308,
+		"city_key" : 455,
+		"address" : "687 Alessandria Parkway",
+		"city" : "Sanaa",
+		"district" : "Sanaa",
+		"postal_code" : "57587",
+		"phone" : "407218522294"
+	},
+	{
+		"dim_locations_key" : 913,
+		"address_key" : 309,
+		"city_key" : 99,
+		"address" : "827 Yuncheng Drive",
+		"city" : "Callao",
+		"district" : "Callao",
+		"postal_code" : "79047",
+		"phone" : "504434452842"
+	},
+	{
+		"dim_locations_key" : 914,
+		"address_key" : 310,
+		"city_key" : 33,
+		"address" : "913 Coacalco de Berriozbal Loop",
+		"city" : "Arlington",
+		"district" : "Texas",
+		"postal_code" : "42141",
+		"phone" : "262088367001"
+	},
+	{
+		"dim_locations_key" : 915,
+		"address_key" : 311,
+		"city_key" : 507,
+		"address" : "715 So Bernardo do Campo Lane",
+		"city" : "Sungai Petani",
+		"district" : "Kedah",
+		"postal_code" : "84804",
+		"phone" : "181179321332"
+	},
+	{
+		"dim_locations_key" : 916,
+		"address_key" : 312,
+		"city_key" : 25,
+		"address" : "1354 Siegen Street",
+		"city" : "Angra dos Reis",
+		"district" : "Rio de Janeiro",
+		"postal_code" : "80184",
+		"phone" : "573441801529"
+	},
+	{
+		"dim_locations_key" : 917,
+		"address_key" : 313,
+		"city_key" : 262,
+		"address" : "1191 Sungai Petani Boulevard",
+		"city" : "Kansas City",
+		"district" : "Missouri",
+		"postal_code" : "9668",
+		"phone" : "983259819766"
+	},
+	{
+		"dim_locations_key" : 918,
+		"address_key" : 314,
+		"city_key" : 91,
+		"address" : "1224 Huejutla de Reyes Boulevard",
+		"city" : "Brescia",
+		"district" : "Lombardia",
+		"postal_code" : "70923",
+		"phone" : "806016930576"
+	},
+	{
+		"dim_locations_key" : 919,
+		"address_key" : 315,
+		"city_key" : 215,
+		"address" : "543 Bergamo Avenue",
+		"city" : "Ibirit",
+		"district" : "Minas Gerais",
+		"postal_code" : "59686",
+		"phone" : "103602195112"
+	},
+	{
+		"dim_locations_key" : 920,
+		"address_key" : 316,
+		"city_key" : 286,
+		"address" : "746 Joliet Lane",
+		"city" : "Kursk",
+		"district" : "Kursk",
+		"postal_code" : "94878",
+		"phone" : "688485191923"
+	},
+	{
+		"dim_locations_key" : 921,
+		"address_key" : 317,
+		"city_key" : 515,
+		"address" : "780 Kimberley Way",
+		"city" : "Tabuk",
+		"district" : "Tabuk",
+		"postal_code" : "17032",
+		"phone" : "824396883951"
+	},
+	{
+		"dim_locations_key" : 922,
+		"address_key" : 318,
+		"city_key" : 166,
+		"address" : "1774 Yaound Place",
+		"city" : "Ezhou",
+		"district" : "Hubei",
+		"postal_code" : "91400",
+		"phone" : "613124286867"
+	},
+	{
+		"dim_locations_key" : 923,
+		"address_key" : 319,
+		"city_key" : 490,
+		"address" : "1957 Yantai Lane",
+		"city" : "Sorocaba",
+		"district" : "So Paulo",
+		"postal_code" : "59255",
+		"phone" : "704948322302"
+	},
+	{
+		"dim_locations_key" : 924,
+		"address_key" : 320,
+		"city_key" : 57,
+		"address" : "1542 Lubumbashi Boulevard",
+		"city" : "Bat Yam",
+		"district" : "Tel Aviv",
+		"postal_code" : "62472",
+		"phone" : "508800331065"
+	},
+	{
+		"dim_locations_key" : 925,
+		"address_key" : 321,
+		"city_key" : 336,
+		"address" : "651 Pathankot Loop",
+		"city" : "Miraj",
+		"district" : "Maharashtra",
+		"postal_code" : "59811",
+		"phone" : "139378397418"
+	},
+	{
+		"dim_locations_key" : 926,
+		"address_key" : 322,
+		"city_key" : 545,
+		"address" : "1359 Zhoushan Parkway",
+		"city" : "Trshavn",
+		"district" : "Streymoyar",
+		"postal_code" : "29763",
+		"phone" : "46568045367"
+	},
+	{
+		"dim_locations_key" : 927,
+		"address_key" : 323,
+		"city_key" : 97,
+		"address" : "1769 Iwaki Lane",
+		"city" : "Bydgoszcz",
+		"district" : "Kujawsko-Pomorskie",
+		"postal_code" : "25787",
+		"phone" : "556100547674"
+	},
+	{
+		"dim_locations_key" : 928,
+		"address_key" : 324,
+		"city_key" : 451,
+		"address" : "1145 Vilnius Manor",
+		"city" : "San Felipe del Progreso",
+		"district" : "Mxico",
+		"postal_code" : "73170",
+		"phone" : "674805712553"
+	},
+	{
+		"dim_locations_key" : 929,
+		"address_key" : 325,
+		"city_key" : 516,
+		"address" : "1892 Nabereznyje Telny Lane",
+		"city" : "Tafuna",
+		"district" : "Tutuila",
+		"postal_code" : "28396",
+		"phone" : "478229987054"
+	},
+	{
+		"dim_locations_key" : 930,
+		"address_key" : 326,
+		"city_key" : 81,
+		"address" : "470 Boksburg Street",
+		"city" : "Birgunj",
+		"district" : "Central",
+		"postal_code" : "97960",
+		"phone" : "908029859266"
+	},
+	{
+		"dim_locations_key" : 931,
+		"address_key" : 327,
+		"city_key" : 45,
+		"address" : "1427 A Corua (La Corua) Place",
+		"city" : "Baha Blanca",
+		"district" : "Buenos Aires",
+		"postal_code" : "85799",
+		"phone" : "972574862516"
+	},
+	{
+		"dim_locations_key" : 932,
+		"address_key" : 328,
+		"city_key" : 130,
+		"address" : "479 San Felipe del Progreso Avenue",
+		"city" : "Cuautla",
+		"district" : "Morelos",
+		"postal_code" : "54949",
+		"phone" : "869051782691"
+	},
+	{
+		"dim_locations_key" : 933,
+		"address_key" : 329,
+		"city_key" : 591,
+		"address" : "867 Benin City Avenue",
+		"city" : "Yuzhou",
+		"district" : "Henan",
+		"postal_code" : "78543",
+		"phone" : "168884817145"
+	},
+	{
+		"dim_locations_key" : 934,
+		"address_key" : 330,
+		"city_key" : 89,
+		"address" : "981 Kumbakonam Place",
+		"city" : "Braslia",
+		"district" : "Distrito Federal",
+		"postal_code" : "87611",
+		"phone" : "829116184079"
+	},
+	{
+		"dim_locations_key" : 935,
+		"address_key" : 331,
+		"city_key" : 269,
+		"address" : "1016 Iwakuni Street",
+		"city" : "Kingstown",
+		"district" : "St George",
+		"postal_code" : "49833",
+		"phone" : "961370847344"
+	},
+	{
+		"dim_locations_key" : 936,
+		"address_key" : 332,
+		"city_key" : 5,
+		"address" : "663 Baha Blanca Parkway",
+		"city" : "Adana",
+		"district" : "Adana",
+		"postal_code" : "33463",
+		"phone" : "834418779292"
+	},
+	{
+		"dim_locations_key" : 937,
+		"address_key" : 333,
+		"city_key" : 119,
+		"address" : "1860 Taguig Loop",
+		"city" : "Ciparay",
+		"district" : "West Java",
+		"postal_code" : "59550",
+		"phone" : "38158430589"
+	},
+	{
+		"dim_locations_key" : 938,
+		"address_key" : 334,
+		"city_key" : 234,
+		"address" : "1816 Bydgoszcz Loop",
+		"city" : "Jamalpur",
+		"district" : "Dhaka",
+		"postal_code" : "64308",
+		"phone" : "965273813662"
+	},
+	{
+		"dim_locations_key" : 939,
+		"address_key" : 335,
+		"city_key" : 42,
+		"address" : "587 Benguela Manor",
+		"city" : "Aurora",
+		"district" : "Illinois",
+		"postal_code" : "91590",
+		"phone" : "165450987037"
+	},
+	{
+		"dim_locations_key" : 940,
+		"address_key" : 336,
+		"city_key" : 457,
+		"address" : "430 Kumbakonam Drive",
+		"city" : "Santa F",
+		"district" : "Santa F",
+		"postal_code" : "28814",
+		"phone" : "105470691550"
+	},
+	{
+		"dim_locations_key" : 941,
+		"address_key" : 337,
+		"city_key" : 143,
+		"address" : "1838 Tabriz Lane",
+		"city" : "Dhaka",
+		"district" : "Dhaka",
+		"postal_code" : "1195",
+		"phone" : "38988715447"
+	},
+	{
+		"dim_locations_key" : 942,
+		"address_key" : 338,
+		"city_key" : 48,
+		"address" : "431 Szkesfehrvr Avenue",
+		"city" : "Baku",
+		"district" : "Baki",
+		"postal_code" : "57828",
+		"phone" : "119501405123"
+	},
+	{
+		"dim_locations_key" : 943,
+		"address_key" : 339,
+		"city_key" : 505,
+		"address" : "503 Sogamoso Loop",
+		"city" : "Sumqayit",
+		"district" : "Sumqayit",
+		"postal_code" : "49812",
+		"phone" : "834626715837"
+	},
+	{
+		"dim_locations_key" : 944,
+		"address_key" : 340,
+		"city_key" : 492,
+		"address" : "507 Smolensk Loop",
+		"city" : "Sousse",
+		"district" : "Sousse",
+		"postal_code" : "22971",
+		"phone" : "80303246192"
+	},
+	{
+		"dim_locations_key" : 945,
+		"address_key" : 341,
+		"city_key" : 427,
+		"address" : "1920 Weifang Avenue",
+		"city" : "Rampur",
+		"district" : "Uttar Pradesh",
+		"postal_code" : "15643",
+		"phone" : "869507847714"
+	},
+	{
+		"dim_locations_key" : 946,
+		"address_key" : 342,
+		"city_key" : 382,
+		"address" : "124 al-Manama Way",
+		"city" : "Onomichi",
+		"district" : "Hiroshima",
+		"postal_code" : "52368",
+		"phone" : "647899404952"
+	},
+	{
+		"dim_locations_key" : 947,
+		"address_key" : 343,
+		"city_key" : 392,
+		"address" : "1443 Mardan Street",
+		"city" : "Paarl",
+		"district" : "Western Cape",
+		"postal_code" : "31483",
+		"phone" : "231383037471"
+	},
+	{
+		"dim_locations_key" : 948,
+		"address_key" : 344,
+		"city_key" : 581,
+		"address" : "1909 Benguela Lane",
+		"city" : "Xinxiang",
+		"district" : "Henan",
+		"postal_code" : "19913",
+		"phone" : "624138001031"
+	},
+	{
+		"dim_locations_key" : 949,
+		"address_key" : 345,
+		"city_key" : 201,
+		"address" : "68 Ponce Parkway",
+		"city" : "Hanoi",
+		"district" : "Hanoi",
+		"postal_code" : "85926",
+		"phone" : "870635127812"
+	},
+	{
+		"dim_locations_key" : 950,
+		"address_key" : 346,
+		"city_key" : 151,
+		"address" : "1217 Konotop Avenue",
+		"city" : "Ede",
+		"district" : "Gelderland",
+		"postal_code" : "504",
+		"phone" : "718917251754"
+	},
+	{
+		"dim_locations_key" : 951,
+		"address_key" : 347,
+		"city_key" : 84,
+		"address" : "1293 Nam Dinh Way",
+		"city" : "Boa Vista",
+		"district" : "Roraima",
+		"postal_code" : "71583",
+		"phone" : "697656479977"
+	},
+	{
+		"dim_locations_key" : 952,
+		"address_key" : 348,
+		"city_key" : 335,
+		"address" : "785 Vaduz Street",
+		"city" : "Mexicali",
+		"district" : "Baja California",
+		"postal_code" : "36170",
+		"phone" : "895616862749"
+	},
+	{
+		"dim_locations_key" : 953,
+		"address_key" : 349,
+		"city_key" : 370,
+		"address" : "1516 Escobar Drive",
+		"city" : "Nukualofa",
+		"district" : "Tongatapu",
+		"postal_code" : "46069",
+		"phone" : "64536069371"
+	},
+	{
+		"dim_locations_key" : 954,
+		"address_key" : 350,
+		"city_key" : 453,
+		"address" : "1628 Nagareyama Lane",
+		"city" : "San Lorenzo",
+		"district" : "Central",
+		"postal_code" : "60079",
+		"phone" : "20064292617"
+	},
+	{
+		"dim_locations_key" : 955,
+		"address_key" : 351,
+		"city_key" : 320,
+		"address" : "1157 Nyeri Loop",
+		"city" : "Maikop",
+		"district" : "Adygea",
+		"postal_code" : "56380",
+		"phone" : "262744791493"
+	},
+	{
+		"dim_locations_key" : 956,
+		"address_key" : 352,
+		"city_key" : 137,
+		"address" : "1673 Tangail Drive",
+		"city" : "Daugavpils",
+		"district" : "Daugavpils",
+		"postal_code" : "26857",
+		"phone" : "627924259271"
+	},
+	{
+		"dim_locations_key" : 957,
+		"address_key" : 353,
+		"city_key" : 209,
+		"address" : "381 Kabul Way",
+		"city" : "Hsichuh",
+		"district" : "Taipei",
+		"postal_code" : "87272",
+		"phone" : "55477302294"
+	},
+	{
+		"dim_locations_key" : 958,
+		"address_key" : 354,
+		"city_key" : 221,
+		"address" : "953 Hodeida Street",
+		"city" : "Imus",
+		"district" : "Southern Tagalog",
+		"postal_code" : "18841",
+		"phone" : "53912826864"
+	},
+	{
+		"dim_locations_key" : 959,
+		"address_key" : 355,
+		"city_key" : 531,
+		"address" : "469 Nakhon Sawan Street",
+		"city" : "Teboksary",
+		"district" : "Tuvassia",
+		"postal_code" : "58866",
+		"phone" : "689199636560"
+	},
+	{
+		"dim_locations_key" : 960,
+		"address_key" : 356,
+		"city_key" : 597,
+		"address" : "1378 Beira Loop",
+		"city" : "Zeleznogorsk",
+		"district" : "Krasnojarsk",
+		"postal_code" : "40792",
+		"phone" : "840957664136"
+	},
+	{
+		"dim_locations_key" : 961,
+		"address_key" : 357,
+		"city_key" : 52,
+		"address" : "1641 Changhwa Place",
+		"city" : "Bamenda",
+		"district" : "Nord-Ouest",
+		"postal_code" : "37636",
+		"phone" : "256546485220"
+	},
+	{
+		"dim_locations_key" : 962,
+		"address_key" : 358,
+		"city_key" : 393,
+		"address" : "1698 Southport Loop",
+		"city" : "Pachuca de Soto",
+		"district" : "Hidalgo",
+		"postal_code" : "49009",
+		"phone" : "754358349853"
+	},
+	{
+		"dim_locations_key" : 963,
+		"address_key" : 359,
+		"city_key" : 461,
+		"address" : "519 Nyeri Manor",
+		"city" : "Santo Andr",
+		"district" : "So Paulo",
+		"postal_code" : "37650",
+		"phone" : "764680915323"
+	},
+	{
+		"dim_locations_key" : 964,
+		"address_key" : 360,
+		"city_key" : 331,
+		"address" : "619 Hunuco Avenue",
+		"city" : "Matsue",
+		"district" : "Shimane",
+		"postal_code" : "81508",
+		"phone" : "142596392389"
+	},
+	{
+		"dim_locations_key" : 965,
+		"address_key" : 361,
+		"city_key" : 464,
+		"address" : "45 Aparecida de Goinia Place",
+		"city" : "Satna",
+		"district" : "Madhya Pradesh",
+		"postal_code" : "7431",
+		"phone" : "650496654258"
+	},
+	{
+		"dim_locations_key" : 966,
+		"address_key" : 362,
+		"city_key" : 90,
+		"address" : "482 Kowloon and New Kowloon Manor",
+		"city" : "Bratislava",
+		"district" : "Bratislava",
+		"postal_code" : "97056",
+		"phone" : "738968474939"
+	},
+	{
+		"dim_locations_key" : 967,
+		"address_key" : 363,
+		"city_key" : 429,
+		"address" : "604 Bern Place",
+		"city" : "Ranchi",
+		"district" : "Jharkhand",
+		"postal_code" : "5373",
+		"phone" : "620719383725"
+	},
+	{
+		"dim_locations_key" : 968,
+		"address_key" : 364,
+		"city_key" : 20,
+		"address" : "1623 Kingstown Drive",
+		"city" : "Almirante Brown",
+		"district" : "Buenos Aires",
+		"postal_code" : "91299",
+		"phone" : "296394569728"
+	},
+	{
+		"dim_locations_key" : 969,
+		"address_key" : 365,
+		"city_key" : 32,
+		"address" : "1009 Zanzibar Lane",
+		"city" : "Arecibo",
+		"district" : "Arecibo",
+		"postal_code" : "64875",
+		"phone" : "102396298916"
+	},
+	{
+		"dim_locations_key" : 970,
+		"address_key" : 366,
+		"city_key" : 585,
+		"address" : "114 Jalib al-Shuyukh Manor",
+		"city" : "Yaound",
+		"district" : "Centre",
+		"postal_code" : "60440",
+		"phone" : "845378657301"
+	},
+	{
+		"dim_locations_key" : 971,
+		"address_key" : 367,
+		"city_key" : 66,
+		"address" : "1163 London Parkway",
+		"city" : "Belm",
+		"district" : "Par",
+		"postal_code" : "6066",
+		"phone" : "675120358494"
+	},
+	{
+		"dim_locations_key" : 972,
+		"address_key" : 368,
+		"city_key" : 372,
+		"address" : "1658 Jastrzebie-Zdrj Loop",
+		"city" : "Nyeri",
+		"district" : "Central",
+		"postal_code" : "96584",
+		"phone" : "568367775448"
+	},
+	{
+		"dim_locations_key" : 973,
+		"address_key" : 369,
+		"city_key" : 188,
+		"address" : "817 Laredo Avenue",
+		"city" : "Guadalajara",
+		"district" : "Jalisco",
+		"postal_code" : "77449",
+		"phone" : "151249681135"
+	},
+	{
+		"dim_locations_key" : 974,
+		"address_key" : 370,
+		"city_key" : 377,
+		"address" : "1565 Tangail Manor",
+		"city" : "Okinawa",
+		"district" : "Okinawa",
+		"postal_code" : "45750",
+		"phone" : "634445428822"
+	},
+	{
+		"dim_locations_key" : 975,
+		"address_key" : 371,
+		"city_key" : 50,
+		"address" : "1912 Emeishan Drive",
+		"city" : "Balikesir",
+		"district" : "Balikesir",
+		"postal_code" : "33050",
+		"phone" : "99883471275"
+	},
+	{
+		"dim_locations_key" : 976,
+		"address_key" : 372,
+		"city_key" : 8,
+		"address" : "230 Urawa Drive",
+		"city" : "Adoni",
+		"district" : "Andhra Pradesh",
+		"postal_code" : "2738",
+		"phone" : "166898395731"
+	},
+	{
+		"dim_locations_key" : 977,
+		"address_key" : 373,
+		"city_key" : 356,
+		"address" : "1922 Miraj Way",
+		"city" : "Najafabad",
+		"district" : "Esfahan",
+		"postal_code" : "13203",
+		"phone" : "320471479776"
+	},
+	{
+		"dim_locations_key" : 978,
+		"address_key" : 374,
+		"city_key" : 250,
+		"address" : "433 Florencia Street",
+		"city" : "Jurez",
+		"district" : "Chihuahua",
+		"postal_code" : "91330",
+		"phone" : "561729882725"
+	},
+	{
+		"dim_locations_key" : 979,
+		"address_key" : 375,
+		"city_key" : 191,
+		"address" : "1049 Matamoros Parkway",
+		"city" : "Gulbarga",
+		"district" : "Karnataka",
+		"postal_code" : "69640",
+		"phone" : "960505250340"
+	},
+	{
+		"dim_locations_key" : 980,
+		"address_key" : 376,
+		"city_key" : 98,
+		"address" : "1061 Ede Avenue",
+		"city" : "Cabuyao",
+		"district" : "Southern Tagalog",
+		"postal_code" : "57810",
+		"phone" : "333390595558"
+	},
+	{
+		"dim_locations_key" : 981,
+		"address_key" : 377,
+		"city_key" : 415,
+		"address" : "154 Oshawa Manor",
+		"city" : "Probolinggo",
+		"district" : "East Java",
+		"postal_code" : "72771",
+		"phone" : "440365973660"
+	},
+	{
+		"dim_locations_key" : 982,
+		"address_key" : 378,
+		"city_key" : 523,
+		"address" : "1191 Tandil Drive",
+		"city" : "Tanauan",
+		"district" : "Southern Tagalog",
+		"postal_code" : "6362",
+		"phone" : "45554316010"
+	},
+	{
+		"dim_locations_key" : 983,
+		"address_key" : 379,
+		"city_key" : 572,
+		"address" : "1133 Rizhao Avenue",
+		"city" : "Vitria de Santo Anto",
+		"district" : "Pernambuco",
+		"postal_code" : "2800",
+		"phone" : "600264533987"
+	},
+	{
+		"dim_locations_key" : 984,
+		"address_key" : 380,
+		"city_key" : 348,
+		"address" : "1519 Santiago de los Caballeros Loop",
+		"city" : "Mwene-Ditu",
+		"district" : "East Kasai",
+		"postal_code" : "22025",
+		"phone" : "409315295763"
+	},
+	{
+		"dim_locations_key" : 985,
+		"address_key" : 381,
+		"city_key" : 285,
+		"address" : "1618 Olomouc Manor",
+		"city" : "Kurgan",
+		"district" : "Kurgan",
+		"postal_code" : "26385",
+		"phone" : "96846695220"
+	},
+	{
+		"dim_locations_key" : 986,
+		"address_key" : 382,
+		"city_key" : 265,
+		"address" : "220 Hidalgo Drive",
+		"city" : "Kermanshah",
+		"district" : "Kermanshah",
+		"postal_code" : "45298",
+		"phone" : "342720754566"
+	},
+	{
+		"dim_locations_key" : 987,
+		"address_key" : 383,
+		"city_key" : 471,
+		"address" : "686 Donostia-San Sebastin Lane",
+		"city" : "Shenzhen",
+		"district" : "Guangdong",
+		"postal_code" : "97390",
+		"phone" : "71857599858"
+	},
+	{
+		"dim_locations_key" : 988,
+		"address_key" : 384,
+		"city_key" : 73,
+		"address" : "97 Mogiljov Lane",
+		"city" : "Bhavnagar",
+		"district" : "Gujarat",
+		"postal_code" : "89294",
+		"phone" : "924815207181"
+	},
+	{
+		"dim_locations_key" : 989,
+		"address_key" : 385,
+		"city_key" : 549,
+		"address" : "1642 Charlotte Amalie Drive",
+		"city" : "Tychy",
+		"district" : "Slaskie",
+		"postal_code" : "75442",
+		"phone" : "821476736117"
+	},
+	{
+		"dim_locations_key" : 990,
+		"address_key" : 386,
+		"city_key" : 493,
+		"address" : "1368 Maracabo Boulevard",
+		"city" : "South Hill",
+		"district" : "",
+		"postal_code" : "32716",
+		"phone" : "934352415130"
+	},
+	{
+		"dim_locations_key" : 991,
+		"address_key" : 387,
+		"city_key" : 322,
+		"address" : "401 Sucre Boulevard",
+		"city" : "Manchester",
+		"district" : "New Hampshire",
+		"postal_code" : "25007",
+		"phone" : "486395999608"
+	},
+	{
+		"dim_locations_key" : 992,
+		"address_key" : 388,
+		"city_key" : 360,
+		"address" : "368 Hunuco Boulevard",
+		"city" : "Namibe",
+		"district" : "Namibe",
+		"postal_code" : "17165",
+		"phone" : "106439158941"
+	},
+	{
+		"dim_locations_key" : 993,
+		"address_key" : 389,
+		"city_key" : 210,
+		"address" : "500 Lincoln Parkway",
+		"city" : "Huaian",
+		"district" : "Jiangsu",
+		"postal_code" : "95509",
+		"phone" : "550306965159"
+	},
+	{
+		"dim_locations_key" : 994,
+		"address_key" : 390,
+		"city_key" : 521,
+		"address" : "102 Chapra Drive",
+		"city" : "Tama",
+		"district" : "Ibaragi",
+		"postal_code" : "14073",
+		"phone" : "776031833752"
+	},
+	{
+		"dim_locations_key" : 995,
+		"address_key" : 391,
+		"city_key" : 258,
+		"address" : "1793 Meixian Place",
+		"city" : "Kamjanets-Podilskyi",
+		"district" : "Hmelnytskyi",
+		"postal_code" : "33535",
+		"phone" : "619966287415"
+	},
+	{
+		"dim_locations_key" : 996,
+		"address_key" : 392,
+		"city_key" : 315,
+		"address" : "514 Ife Way",
+		"city" : "Lubumbashi",
+		"district" : "Shaba",
+		"postal_code" : "69973",
+		"phone" : "900235712074"
+	},
+	{
+		"dim_locations_key" : 997,
+		"address_key" : 393,
+		"city_key" : 104,
+		"address" : "717 Changzhou Lane",
+		"city" : "Cavite",
+		"district" : "Southern Tagalog",
+		"postal_code" : "21615",
+		"phone" : "426255288071"
+	},
+	{
+		"dim_locations_key" : 998,
+		"address_key" : 394,
+		"city_key" : 157,
+		"address" : "753 Ilorin Avenue",
+		"city" : "Emeishan",
+		"district" : "Sichuan",
+		"postal_code" : "3656",
+		"phone" : "464511145118"
+	},
+	{
+		"dim_locations_key" : 999,
+		"address_key" : 395,
+		"city_key" : 358,
+		"address" : "1337 Mit Ghamr Avenue",
+		"city" : "Nakhon Sawan",
+		"district" : "Nakhon Sawan",
+		"postal_code" : "29810",
+		"phone" : "175283210378"
+	},
+	{
+		"dim_locations_key" : 1000,
+		"address_key" : 396,
+		"city_key" : 229,
+		"address" : "767 Pyongyang Drive",
+		"city" : "Izumisano",
+		"district" : "Osaka",
+		"postal_code" : "83536",
+		"phone" : "667736124769"
+	},
+	{
+		"dim_locations_key" : 1001,
+		"address_key" : 397,
+		"city_key" : 6,
+		"address" : "614 Pak Kret Street",
+		"city" : "Addis Abeba",
+		"district" : "Addis Abeba",
+		"postal_code" : "27796",
+		"phone" : "47808359842"
+	},
+	{
+		"dim_locations_key" : 1002,
+		"address_key" : 398,
+		"city_key" : 278,
+		"address" : "954 Lapu-Lapu Way",
+		"city" : "Korolev",
+		"district" : "Moskova",
+		"postal_code" : "8816",
+		"phone" : "737229003916"
+	},
+	{
+		"dim_locations_key" : 1003,
+		"address_key" : 399,
+		"city_key" : 181,
+		"address" : "331 Bydgoszcz Parkway",
+		"city" : "Gijn",
+		"district" : "Asturia",
+		"postal_code" : "966",
+		"phone" : "537374465982"
+	},
+	{
+		"dim_locations_key" : 1004,
+		"address_key" : 400,
+		"city_key" : 15,
+		"address" : "1152 Citrus Heights Manor",
+		"city" : "al-Qadarif",
+		"district" : "al-Qadarif",
+		"postal_code" : "5239",
+		"phone" : "765957414528"
+	},
+	{
+		"dim_locations_key" : 1005,
+		"address_key" : 401,
+		"city_key" : 228,
+		"address" : "168 Cianjur Manor",
+		"city" : "Iwatsuki",
+		"district" : "Saitama",
+		"postal_code" : "73824",
+		"phone" : "679095087143"
+	},
+	{
+		"dim_locations_key" : 1006,
+		"address_key" : 402,
+		"city_key" : 39,
+		"address" : "616 Hagonoy Avenue",
+		"city" : "Atinsk",
+		"district" : "Krasnojarsk",
+		"postal_code" : "46043",
+		"phone" : "604177838256"
+	},
+	{
+		"dim_locations_key" : 1007,
+		"address_key" : 403,
+		"city_key" : 44,
+		"address" : "1190 0 Place",
+		"city" : "Bag",
+		"district" : "Rio Grande do Sul",
+		"postal_code" : "10417",
+		"phone" : "841876514789"
+	},
+	{
+		"dim_locations_key" : 1008,
+		"address_key" : 404,
+		"city_key" : 375,
+		"address" : "734 Bchar Place",
+		"city" : "Okara",
+		"district" : "Punjab",
+		"postal_code" : "30586",
+		"phone" : "280578750435"
+	},
+	{
+		"dim_locations_key" : 1009,
+		"address_key" : 405,
+		"city_key" : 135,
+		"address" : "530 Lausanne Lane",
+		"city" : "Dallas",
+		"district" : "Texas",
+		"postal_code" : "11067",
+		"phone" : "775235029633"
+	},
+	{
+		"dim_locations_key" : 1010,
+		"address_key" : 406,
+		"city_key" : 276,
+		"address" : "454 Patiala Lane",
+		"city" : "Koriyama",
+		"district" : "Fukushima",
+		"postal_code" : "13496",
+		"phone" : "794553031307"
+	},
+	{
+		"dim_locations_key" : 1011,
+		"address_key" : 407,
+		"city_key" : 92,
+		"address" : "1346 Mysore Drive",
+		"city" : "Brest",
+		"district" : "Bretagne",
+		"postal_code" : "61507",
+		"phone" : "516647474029"
+	},
+	{
+		"dim_locations_key" : 1012,
+		"address_key" : 408,
+		"city_key" : 564,
+		"address" : "990 Etawah Loop",
+		"city" : "Valparai",
+		"district" : "Tamil Nadu",
+		"postal_code" : "79940",
+		"phone" : "206169448769"
+	},
+	{
+		"dim_locations_key" : 1013,
+		"address_key" : 409,
+		"city_key" : 380,
+		"address" : "1266 Laredo Parkway",
+		"city" : "Omiya",
+		"district" : "Saitama",
+		"postal_code" : "7664",
+		"phone" : "1483365694"
+	},
+	{
+		"dim_locations_key" : 1014,
+		"address_key" : 410,
+		"city_key" : 524,
+		"address" : "88 Nagaon Manor",
+		"city" : "Tandil",
+		"district" : "Buenos Aires",
+		"postal_code" : "86868",
+		"phone" : "779461480495"
+	},
+	{
+		"dim_locations_key" : 1015,
+		"address_key" : 411,
+		"city_key" : 111,
+		"address" : "264 Bhimavaram Manor",
+		"city" : "Charlotte Amalie",
+		"district" : "St Thomas",
+		"postal_code" : "54749",
+		"phone" : "302526949177"
+	},
+	{
+		"dim_locations_key" : 1016,
+		"address_key" : 412,
+		"city_key" : 437,
+		"address" : "1639 Saarbrcken Drive",
+		"city" : "Rustenburg",
+		"district" : "North West",
+		"postal_code" : "9827",
+		"phone" : "328494873422"
+	},
+	{
+		"dim_locations_key" : 1017,
+		"address_key" : 413,
+		"city_key" : 230,
+		"address" : "692 Amroha Drive",
+		"city" : "Jaffna",
+		"district" : "Northern",
+		"postal_code" : "35575",
+		"phone" : "359478883004"
+	},
+	{
+		"dim_locations_key" : 1018,
+		"address_key" : 414,
+		"city_key" : 141,
+		"address" : "1936 Lapu-Lapu Parkway",
+		"city" : "Deba Habe",
+		"district" : "Bauchi & Gombe",
+		"postal_code" : "7122",
+		"phone" : "653436985797"
+	},
+	{
+		"dim_locations_key" : 1019,
+		"address_key" : 415,
+		"city_key" : 430,
+		"address" : "432 Garden Grove Street",
+		"city" : "Richmond Hill",
+		"district" : "Ontario",
+		"postal_code" : "65630",
+		"phone" : "615964523510"
+	},
+	{
+		"dim_locations_key" : 1020,
+		"address_key" : 416,
+		"city_key" : 117,
+		"address" : "1445 Carmen Parkway",
+		"city" : "Cianjur",
+		"district" : "West Java",
+		"postal_code" : "70809",
+		"phone" : "598912394463"
+	},
+	{
+		"dim_locations_key" : 1021,
+		"address_key" : 417,
+		"city_key" : 208,
+		"address" : "791 Salinas Street",
+		"city" : "Hoshiarpur",
+		"district" : "Punjab",
+		"postal_code" : "40509",
+		"phone" : "129953030512"
+	},
+	{
+		"dim_locations_key" : 1022,
+		"address_key" : 418,
+		"city_key" : 71,
+		"address" : "126 Acua Parkway",
+		"city" : "Berhampore (Baharampur)",
+		"district" : "West Bengali",
+		"postal_code" : "58888",
+		"phone" : "480039662421"
+	},
+	{
+		"dim_locations_key" : 1023,
+		"address_key" : 419,
+		"city_key" : 19,
+		"address" : "397 Sunnyvale Avenue",
+		"city" : "Allende",
+		"district" : "Guanajuato",
+		"postal_code" : "55566",
+		"phone" : "680851640676"
+	},
+	{
+		"dim_locations_key" : 1024,
+		"address_key" : 420,
+		"city_key" : 23,
+		"address" : "992 Klerksdorp Loop",
+		"city" : "Amersfoort",
+		"district" : "Utrecht",
+		"postal_code" : "33711",
+		"phone" : "855290087237"
+	},
+	{
+		"dim_locations_key" : 1025,
+		"address_key" : 421,
+		"city_key" : 134,
+		"address" : "966 Arecibo Loop",
+		"city" : "Dadu",
+		"district" : "Sind",
+		"postal_code" : "94018",
+		"phone" : "15273765306"
+	},
+	{
+		"dim_locations_key" : 1026,
+		"address_key" : 422,
+		"city_key" : 16,
+		"address" : "289 Santo Andr Manor",
+		"city" : "al-Qatif",
+		"district" : "al-Sharqiya",
+		"postal_code" : "72410",
+		"phone" : "214976066017"
+	},
+	{
+		"dim_locations_key" : 1027,
+		"address_key" : 423,
+		"city_key" : 450,
+		"address" : "437 Chungho Drive",
+		"city" : "San Felipe de Puerto Plata",
+		"district" : "Puerto Plata",
+		"postal_code" : "59489",
+		"phone" : "491271355190"
+	},
+	{
+		"dim_locations_key" : 1028,
+		"address_key" : 424,
+		"city_key" : 264,
+		"address" : "1948 Bayugan Parkway",
+		"city" : "Katihar",
+		"district" : "Bihar",
+		"postal_code" : "60622",
+		"phone" : "987306329957"
+	},
+	{
+		"dim_locations_key" : 1029,
+		"address_key" : 425,
+		"city_key" : 155,
+		"address" : "1866 al-Qatif Avenue",
+		"city" : "El Monte",
+		"district" : "California",
+		"postal_code" : "89420",
+		"phone" : "546793516940"
+	},
+	{
+		"dim_locations_key" : 1030,
+		"address_key" : 426,
+		"city_key" : 416,
+		"address" : "1661 Abha Drive",
+		"city" : "Pudukkottai",
+		"district" : "Tamil Nadu",
+		"postal_code" : "14400",
+		"phone" : "270456873752"
+	},
+	{
+		"dim_locations_key" : 1031,
+		"address_key" : 427,
+		"city_key" : 293,
+		"address" : "1557 Cape Coral Parkway",
+		"city" : "Laohekou",
+		"district" : "Hubei",
+		"postal_code" : "46875",
+		"phone" : "368284120423"
+	},
+	{
+		"dim_locations_key" : 1032,
+		"address_key" : 428,
+		"city_key" : 465,
+		"address" : "1727 Matamoros Place",
+		"city" : "Sawhaj",
+		"district" : "Sawhaj",
+		"postal_code" : "78813",
+		"phone" : "129673677866"
+	},
+	{
+		"dim_locations_key" : 1033,
+		"address_key" : 429,
+		"city_key" : 468,
+		"address" : "1269 Botosani Manor",
+		"city" : "Shanwei",
+		"district" : "Guangdong",
+		"postal_code" : "47394",
+		"phone" : "736517327853"
+	},
+	{
+		"dim_locations_key" : 1034,
+		"address_key" : 430,
+		"city_key" : 452,
+		"address" : "355 Vitria de Santo Anto Way",
+		"city" : "San Juan Bautista Tuxtepec",
+		"district" : "Oaxaca",
+		"postal_code" : "81758",
+		"phone" : "548003849552"
+	},
+	{
+		"dim_locations_key" : 1035,
+		"address_key" : 431,
+		"city_key" : 418,
+		"address" : "1596 Acua Parkway",
+		"city" : "Purnea (Purnia)",
+		"district" : "Jharkhand",
+		"postal_code" : "70425",
+		"phone" : "157133457169"
+	},
+	{
+		"dim_locations_key" : 1036,
+		"address_key" : 432,
+		"city_key" : 189,
+		"address" : "259 Ipoh Drive",
+		"city" : "Guaruj",
+		"district" : "So Paulo",
+		"postal_code" : "64964",
+		"phone" : "419009857119"
+	},
+	{
+		"dim_locations_key" : 1037,
+		"address_key" : 433,
+		"city_key" : 510,
+		"address" : "1823 Hoshiarpur Lane",
+		"city" : "Syktyvkar",
+		"district" : "Komi",
+		"postal_code" : "33191",
+		"phone" : "307133768620"
+	},
+	{
+		"dim_locations_key" : 1038,
+		"address_key" : 434,
+		"city_key" : 547,
+		"address" : "1404 Taguig Drive",
+		"city" : "Tsuyama",
+		"district" : "Okayama",
+		"postal_code" : "87212",
+		"phone" : "572068624538"
+	},
+	{
+		"dim_locations_key" : 1039,
+		"address_key" : 435,
+		"city_key" : 150,
+		"address" : "740 Udaipur Lane",
+		"city" : "Dzerzinsk",
+		"district" : "Nizni Novgorod",
+		"postal_code" : "33505",
+		"phone" : "497288595103"
+	},
+	{
+		"dim_locations_key" : 1040,
+		"address_key" : 436,
+		"city_key" : 501,
+		"address" : "287 Cuautla Boulevard",
+		"city" : "Sucre",
+		"district" : "Chuquisaca",
+		"postal_code" : "72736",
+		"phone" : "82619513349"
+	},
+	{
+		"dim_locations_key" : 1041,
+		"address_key" : 437,
+		"city_key" : 364,
+		"address" : "1766 Almirante Brown Street",
+		"city" : "Newcastle",
+		"district" : "KwaZulu-Natal",
+		"postal_code" : "63104",
+		"phone" : "617567598243"
+	},
+	{
+		"dim_locations_key" : 1042,
+		"address_key" : 438,
+		"city_key" : 351,
+		"address" : "596 Huixquilucan Place",
+		"city" : "Naala-Porto",
+		"district" : "Nampula",
+		"postal_code" : "65892",
+		"phone" : "342709348083"
+	},
+	{
+		"dim_locations_key" : 1043,
+		"address_key" : 439,
+		"city_key" : 391,
+		"address" : "1351 Aparecida de Goinia Parkway",
+		"city" : "Ozamis",
+		"district" : "Northern Mindanao",
+		"postal_code" : "41775",
+		"phone" : "959834530529"
+	},
+	{
+		"dim_locations_key" : 1044,
+		"address_key" : 440,
+		"city_key" : 249,
+		"address" : "722 Bradford Lane",
+		"city" : "Junan",
+		"district" : "Shandong",
+		"postal_code" : "90920",
+		"phone" : "746251338300"
+	},
+	{
+		"dim_locations_key" : 1045,
+		"address_key" : 441,
+		"city_key" : 565,
+		"address" : "983 Santa F Way",
+		"city" : "Vancouver",
+		"district" : "British Colombia",
+		"postal_code" : "47472",
+		"phone" : "145720452260"
+	},
+	{
+		"dim_locations_key" : 1046,
+		"address_key" : 442,
+		"city_key" : 290,
+		"address" : "1245 Ibirit Way",
+		"city" : "La Romana",
+		"district" : "La Romana",
+		"postal_code" : "40926",
+		"phone" : "331888642162"
+	},
+	{
+		"dim_locations_key" : 1047,
+		"address_key" : 443,
+		"city_key" : 272,
+		"address" : "1836 Korla Parkway",
+		"city" : "Kitwe",
+		"district" : "Copperbelt",
+		"postal_code" : "55405",
+		"phone" : "689681677428"
+	},
+	{
+		"dim_locations_key" : 1048,
+		"address_key" : 444,
+		"city_key" : 70,
+		"address" : "231 Kaliningrad Place",
+		"city" : "Bergamo",
+		"district" : "Lombardia",
+		"postal_code" : "57833",
+		"phone" : "575081026569"
+	},
+	{
+		"dim_locations_key" : 1049,
+		"address_key" : 445,
+		"city_key" : 144,
+		"address" : "495 Bhimavaram Lane",
+		"city" : "Dhule (Dhulia)",
+		"district" : "Maharashtra",
+		"postal_code" : "3",
+		"phone" : "82088937724"
+	},
+	{
+		"dim_locations_key" : 1050,
+		"address_key" : 446,
+		"city_key" : 59,
+		"address" : "1924 Shimonoseki Drive",
+		"city" : "Batna",
+		"district" : "Batna",
+		"postal_code" : "52625",
+		"phone" : "406784385440"
+	},
+	{
+		"dim_locations_key" : 1051,
+		"address_key" : 447,
+		"city_key" : 540,
+		"address" : "105 Dzerzinsk Manor",
+		"city" : "Tongliao",
+		"district" : "Inner Mongolia",
+		"postal_code" : "48570",
+		"phone" : "240776414296"
+	},
+	{
+		"dim_locations_key" : 1052,
+		"address_key" : 448,
+		"city_key" : 486,
+		"address" : "614 Denizli Parkway",
+		"city" : "So Leopoldo",
+		"district" : "Rio Grande do Sul",
+		"postal_code" : "29444",
+		"phone" : "876491807547"
+	},
+	{
+		"dim_locations_key" : 1053,
+		"address_key" : 449,
+		"city_key" : 530,
+		"address" : "1289 Belm Boulevard",
+		"city" : "Tartu",
+		"district" : "Tartumaa",
+		"postal_code" : "88306",
+		"phone" : "237368926031"
+	},
+	{
+		"dim_locations_key" : 1054,
+		"address_key" : 450,
+		"city_key" : 161,
+		"address" : "203 Tambaram Street",
+		"city" : "Escobar",
+		"district" : "Buenos Aires",
+		"postal_code" : "73942",
+		"phone" : "411549550611"
+	},
+	{
+		"dim_locations_key" : 1055,
+		"address_key" : 451,
+		"city_key" : 554,
+		"address" : "1704 Tambaram Manor",
+		"city" : "Uluberia",
+		"district" : "West Bengali",
+		"postal_code" : "2834",
+		"phone" : "39463554936"
+	},
+	{
+		"dim_locations_key" : 1056,
+		"address_key" : 452,
+		"city_key" : 352,
+		"address" : "207 Cuernavaca Loop",
+		"city" : "Nabereznyje Telny",
+		"district" : "Tatarstan",
+		"postal_code" : "52671",
+		"phone" : "782900030287"
+	},
+	{
+		"dim_locations_key" : 1057,
+		"address_key" : 453,
+		"city_key" : 160,
+		"address" : "319 Springs Loop",
+		"city" : "Erlangen",
+		"district" : "Baijeri",
+		"postal_code" : "99552",
+		"phone" : "72524459905"
+	},
+	{
+		"dim_locations_key" : 1058,
+		"address_key" : 454,
+		"city_key" : 481,
+		"address" : "956 Nam Dinh Manor",
+		"city" : "Sirjan",
+		"district" : "Kerman",
+		"postal_code" : "21872",
+		"phone" : "474047727727"
+	},
+	{
+		"dim_locations_key" : 1059,
+		"address_key" : 455,
+		"city_key" : 509,
+		"address" : "1947 Paarl Way",
+		"city" : "Surakarta",
+		"district" : "Central Java",
+		"postal_code" : "23636",
+		"phone" : "834061016202"
+	},
+	{
+		"dim_locations_key" : 1060,
+		"address_key" : 456,
+		"city_key" : 154,
+		"address" : "814 Simferopol Loop",
+		"city" : "El Fuerte",
+		"district" : "Sinaloa",
+		"postal_code" : "48745",
+		"phone" : "524567129902"
+	},
+	{
+		"dim_locations_key" : 1061,
+		"address_key" : 457,
+		"city_key" : 3,
+		"address" : "535 Ahmadnagar Manor",
+		"city" : "Abu Dhabi",
+		"district" : "Abu Dhabi",
+		"postal_code" : "41136",
+		"phone" : "985109775584"
+	},
+	{
+		"dim_locations_key" : 1062,
+		"address_key" : 458,
+		"city_key" : 326,
+		"address" : "138 Caracas Boulevard",
+		"city" : "Maracabo",
+		"district" : "Zulia",
+		"postal_code" : "16790",
+		"phone" : "974433019532"
+	},
+	{
+		"dim_locations_key" : 1063,
+		"address_key" : 459,
+		"city_key" : 556,
+		"address" : "251 Florencia Drive",
+		"city" : "Uruapan",
+		"district" : "Michoacn de Ocampo",
+		"postal_code" : "16119",
+		"phone" : "118011831565"
+	},
+	{
+		"dim_locations_key" : 1064,
+		"address_key" : 460,
+		"city_key" : 153,
+		"address" : "659 Gatineau Boulevard",
+		"city" : "El Alto",
+		"district" : "La Paz",
+		"postal_code" : "28587",
+		"phone" : "205524798287"
+	},
+	{
+		"dim_locations_key" : 1065,
+		"address_key" : 461,
+		"city_key" : 600,
+		"address" : "1889 Valparai Way",
+		"city" : "Ziguinchor",
+		"district" : "Ziguinchor",
+		"postal_code" : "75559",
+		"phone" : "670370974122"
+	},
+	{
+		"dim_locations_key" : 1066,
+		"address_key" : 462,
+		"city_key" : 435,
+		"address" : "1485 Bratislava Place",
+		"city" : "Rockford",
+		"district" : "Illinois",
+		"postal_code" : "83183",
+		"phone" : "924663855568"
+	},
+	{
+		"dim_locations_key" : 1067,
+		"address_key" : 463,
+		"city_key" : 532,
+		"address" : "935 Aden Boulevard",
+		"city" : "Tegal",
+		"district" : "Central Java",
+		"postal_code" : "64709",
+		"phone" : "335052544020"
+	},
+	{
+		"dim_locations_key" : 1068,
+		"address_key" : 464,
+		"city_key" : 423,
+		"address" : "76 Kermanshah Manor",
+		"city" : "Qomsheh",
+		"district" : "Esfahan",
+		"postal_code" : "23343",
+		"phone" : "762361821578"
+	},
+	{
+		"dim_locations_key" : 1069,
+		"address_key" : 465,
+		"city_key" : 170,
+		"address" : "734 Tanshui Avenue",
+		"city" : "Florencia",
+		"district" : "Caquet",
+		"postal_code" : "70664",
+		"phone" : "366776723320"
+	},
+	{
+		"dim_locations_key" : 1070,
+		"address_key" : 466,
+		"city_key" : 182,
+		"address" : "118 Jaffna Loop",
+		"city" : "Gingoog",
+		"district" : "Northern Mindanao",
+		"postal_code" : "10447",
+		"phone" : "325526730021"
+	},
+	{
+		"dim_locations_key" : 1071,
+		"address_key" : 467,
+		"city_key" : 558,
+		"address" : "1621 Tongliao Avenue",
+		"city" : "Usolje-Sibirskoje",
+		"district" : "Irkutsk",
+		"postal_code" : "22173",
+		"phone" : "209342540247"
+	},
+	{
+		"dim_locations_key" : 1072,
+		"address_key" : 468,
+		"city_key" : 196,
+		"address" : "1844 Usak Avenue",
+		"city" : "Halifax",
+		"district" : "Nova Scotia",
+		"postal_code" : "84461",
+		"phone" : "164414772677"
+	},
+	{
+		"dim_locations_key" : 1073,
+		"address_key" : 469,
+		"city_key" : 428,
+		"address" : "1872 Toulon Loop",
+		"city" : "Rancagua",
+		"district" : "OHiggins",
+		"postal_code" : "7939",
+		"phone" : "928809465153"
+	},
+	{
+		"dim_locations_key" : 1074,
+		"address_key" : 470,
+		"city_key" : 595,
+		"address" : "1088 Ibirit Place",
+		"city" : "Zapopan",
+		"district" : "Jalisco",
+		"postal_code" : "88502",
+		"phone" : "49084281333"
+	},
+	{
+		"dim_locations_key" : 1075,
+		"address_key" : 471,
+		"city_key" : 145,
+		"address" : "1322 Mosul Parkway",
+		"city" : "Dongying",
+		"district" : "Shandong",
+		"postal_code" : "95400",
+		"phone" : "268053970382"
+	},
+	{
+		"dim_locations_key" : 1076,
+		"address_key" : 472,
+		"city_key" : 129,
+		"address" : "1447 Chatsworth Place",
+		"city" : "Cuauhtmoc",
+		"district" : "Chihuahua",
+		"postal_code" : "41545",
+		"phone" : "769370126331"
+	},
+	{
+		"dim_locations_key" : 1077,
+		"address_key" : 473,
+		"city_key" : 78,
+		"address" : "1257 Guadalajara Street",
+		"city" : "Bijapur",
+		"district" : "Karnataka",
+		"postal_code" : "33599",
+		"phone" : "195337700615"
+	},
+	{
+		"dim_locations_key" : 1078,
+		"address_key" : 474,
+		"city_key" : 388,
+		"address" : "1469 Plock Lane",
+		"city" : "Ourense (Orense)",
+		"district" : "Galicia",
+		"postal_code" : "95835",
+		"phone" : "622884741180"
+	},
+	{
+		"dim_locations_key" : 1079,
+		"address_key" : 475,
+		"city_key" : 206,
+		"address" : "434 Ourense (Orense) Manor",
+		"city" : "Hodeida",
+		"district" : "Hodeida",
+		"postal_code" : "14122",
+		"phone" : "562370137426"
+	},
+	{
+		"dim_locations_key" : 1080,
+		"address_key" : 476,
+		"city_key" : 244,
+		"address" : "270 Tambaram Parkway",
+		"city" : "Johannesburg",
+		"district" : "Gauteng",
+		"postal_code" : "9668",
+		"phone" : "248446668735"
+	},
+	{
+		"dim_locations_key" : 1081,
+		"address_key" : 477,
+		"city_key" : 359,
+		"address" : "1786 Salinas Place",
+		"city" : "Nam Dinh",
+		"district" : "Nam Ha",
+		"postal_code" : "66546",
+		"phone" : "206060652238"
+	},
+	{
+		"dim_locations_key" : 1082,
+		"address_key" : 478,
+		"city_key" : 301,
+		"address" : "1078 Stara Zagora Drive",
+		"city" : "Lhokseumawe",
+		"district" : "Aceh",
+		"postal_code" : "69221",
+		"phone" : "932992626595"
+	},
+	{
+		"dim_locations_key" : 1083,
+		"address_key" : 479,
+		"city_key" : 158,
+		"address" : "1854 Okara Boulevard",
+		"city" : "Emmen",
+		"district" : "Drenthe",
+		"postal_code" : "42123",
+		"phone" : "131912793873"
+	},
+	{
+		"dim_locations_key" : 1084,
+		"address_key" : 480,
+		"city_key" : 385,
+		"address" : "421 Yaound Street",
+		"city" : "ostka",
+		"district" : "Sumy",
+		"postal_code" : "11363",
+		"phone" : "726875628268"
+	},
+	{
+		"dim_locations_key" : 1085,
+		"address_key" : 481,
+		"city_key" : 179,
+		"address" : "1153 Allende Way",
+		"city" : "Gatineau",
+		"district" : "Qubec",
+		"postal_code" : "20336",
+		"phone" : "856872225376"
+	},
+	{
+		"dim_locations_key" : 1086,
+		"address_key" : 482,
+		"city_key" : 500,
+		"address" : "808 Naala-Porto Parkway",
+		"city" : "Stockport",
+		"district" : "England",
+		"postal_code" : "41060",
+		"phone" : "553452430707"
+	},
+	{
+		"dim_locations_key" : 1087,
+		"address_key" : 483,
+		"city_key" : 36,
+		"address" : "632 Usolje-Sibirskoje Parkway",
+		"city" : "Ashqelon",
+		"district" : "Ha Darom",
+		"postal_code" : "73085",
+		"phone" : "667648979883"
+	},
+	{
+		"dim_locations_key" : 1088,
+		"address_key" : 484,
+		"city_key" : 11,
+		"address" : "98 Pyongyang Boulevard",
+		"city" : "Akron",
+		"district" : "Ohio",
+		"postal_code" : "88749",
+		"phone" : "191958435142"
+	},
+	{
+		"dim_locations_key" : 1089,
+		"address_key" : 485,
+		"city_key" : 180,
+		"address" : "984 Novoterkassk Loop",
+		"city" : "Gaziantep",
+		"district" : "Gaziantep",
+		"postal_code" : "28165",
+		"phone" : "435118527255"
+	},
+	{
+		"dim_locations_key" : 1090,
+		"address_key" : 486,
+		"city_key" : 347,
+		"address" : "64 Korla Street",
+		"city" : "Mwanza",
+		"district" : "Mwanza",
+		"postal_code" : "25145",
+		"phone" : "510383179153"
+	},
+	{
+		"dim_locations_key" : 1091,
+		"address_key" : 487,
+		"city_key" : 125,
+		"address" : "1785 So Bernardo do Campo Street",
+		"city" : "Coatzacoalcos",
+		"district" : "Veracruz",
+		"postal_code" : "71182",
+		"phone" : "684529463244"
+	},
+	{
+		"dim_locations_key" : 1092,
+		"address_key" : 488,
+		"city_key" : 142,
+		"address" : "698 Jelets Boulevard",
+		"city" : "Denizli",
+		"district" : "Denizli",
+		"postal_code" : "2596",
+		"phone" : "975185523021"
+	},
+	{
+		"dim_locations_key" : 1093,
+		"address_key" : 489,
+		"city_key" : 587,
+		"address" : "1297 Alvorada Parkway",
+		"city" : "Yinchuan",
+		"district" : "Ningxia",
+		"postal_code" : "11839",
+		"phone" : "508348602835"
+	},
+	{
+		"dim_locations_key" : 1094,
+		"address_key" : 490,
+		"city_key" : 469,
+		"address" : "1909 Dayton Avenue",
+		"city" : "Shaoguan",
+		"district" : "Guangdong",
+		"postal_code" : "88513",
+		"phone" : "702955450528"
+	},
+	{
+		"dim_locations_key" : 1095,
+		"address_key" : 491,
+		"city_key" : 4,
+		"address" : "1789 Saint-Denis Parkway",
+		"city" : "Acua",
+		"district" : "Coahuila de Zaragoza",
+		"postal_code" : "8268",
+		"phone" : "936806643983"
+	},
+	{
+		"dim_locations_key" : 1096,
+		"address_key" : 492,
+		"city_key" : 408,
+		"address" : "185 Mannheim Lane",
+		"city" : "Pjatigorsk",
+		"district" : "Stavropol",
+		"postal_code" : "23661",
+		"phone" : "589377568313"
+	},
+	{
+		"dim_locations_key" : 1097,
+		"address_key" : 493,
+		"city_key" : 288,
+		"address" : "184 Mandaluyong Street",
+		"city" : "La Paz",
+		"district" : "Baja California Sur",
+		"postal_code" : "94239",
+		"phone" : "488425406814"
+	},
+	{
+		"dim_locations_key" : 1098,
+		"address_key" : 494,
+		"city_key" : 376,
+		"address" : "591 Sungai Petani Drive",
+		"city" : "Okayama",
+		"district" : "Okayama",
+		"postal_code" : "46400",
+		"phone" : "37247325001"
+	},
+	{
+		"dim_locations_key" : 1099,
+		"address_key" : 495,
+		"city_key" : 487,
+		"address" : "656 Matamoros Drive",
+		"city" : "Sogamoso",
+		"district" : "Boyac",
+		"postal_code" : "19489",
+		"phone" : "17305839123"
+	},
+	{
+		"dim_locations_key" : 1100,
+		"address_key" : 496,
+		"city_key" : 337,
+		"address" : "775 ostka Drive",
+		"city" : "Mit Ghamr",
+		"district" : "al-Daqahliya",
+		"postal_code" : "22358",
+		"phone" : "171973024401"
+	},
+	{
+		"dim_locations_key" : 1101,
+		"address_key" : 497,
+		"city_key" : 261,
+		"address" : "1013 Tabuk Boulevard",
+		"city" : "Kanchrapara",
+		"district" : "West Bengali",
+		"postal_code" : "96203",
+		"phone" : "158399646978"
+	},
+	{
+		"dim_locations_key" : 1102,
+		"address_key" : 498,
+		"city_key" : 504,
+		"address" : "319 Plock Parkway",
+		"city" : "Sultanbeyli",
+		"district" : "Istanbul",
+		"postal_code" : "26101",
+		"phone" : "854259976812"
+	},
+	{
+		"dim_locations_key" : 1103,
+		"address_key" : 499,
+		"city_key" : 434,
+		"address" : "1954 Kowloon and New Kowloon Way",
+		"city" : "Robamba",
+		"district" : "Chimborazo",
+		"postal_code" : "63667",
+		"phone" : "898559280434"
+	},
+	{
+		"dim_locations_key" : 1104,
+		"address_key" : 500,
+		"city_key" : 47,
+		"address" : "362 Rajkot Lane",
+		"city" : "Baiyin",
+		"district" : "Gansu",
+		"postal_code" : "98030",
+		"phone" : "962020153680"
+	},
+	{
+		"dim_locations_key" : 1105,
+		"address_key" : 501,
+		"city_key" : 432,
+		"address" : "1060 Tandil Lane",
+		"city" : "Rizhao",
+		"district" : "Shandong",
+		"postal_code" : "72349",
+		"phone" : "211256301880"
+	},
+	{
+		"dim_locations_key" : 1106,
+		"address_key" : 502,
+		"city_key" : 589,
+		"address" : "1515 Korla Way",
+		"city" : "York",
+		"district" : "England",
+		"postal_code" : "57197",
+		"phone" : "959467760895"
+	},
+	{
+		"dim_locations_key" : 1107,
+		"address_key" : 503,
+		"city_key" : 444,
+		"address" : "1416 San Juan Bautista Tuxtepec Avenue",
+		"city" : "Salala",
+		"district" : "Zufar",
+		"postal_code" : "50592",
+		"phone" : "144206758053"
+	},
+	{
+		"dim_locations_key" : 1108,
+		"address_key" : 504,
+		"city_key" : 93,
+		"address" : "1 Valle de Santiago Avenue",
+		"city" : "Brindisi",
+		"district" : "Apulia",
+		"postal_code" : "86208",
+		"phone" : "465897838272"
+	},
+	{
+		"dim_locations_key" : 1109,
+		"address_key" : 505,
+		"city_key" : 318,
+		"address" : "519 Brescia Parkway",
+		"city" : "Madiun",
+		"district" : "East Java",
+		"postal_code" : "69504",
+		"phone" : "793996678771"
+	},
+	{
+		"dim_locations_key" : 1110,
+		"address_key" : 506,
+		"city_key" : 314,
+		"address" : "414 Mandaluyong Street",
+		"city" : "Lublin",
+		"district" : "Lubelskie",
+		"postal_code" : "16370",
+		"phone" : "52709222667"
+	},
+	{
+		"dim_locations_key" : 1111,
+		"address_key" : 507,
+		"city_key" : 478,
+		"address" : "1197 Sokoto Boulevard",
+		"city" : "Siliguri (Shiliguri)",
+		"district" : "West Bengali",
+		"postal_code" : "87687",
+		"phone" : "868602816371"
+	},
+	{
+		"dim_locations_key" : 1112,
+		"address_key" : 508,
+		"city_key" : 552,
+		"address" : "496 Celaya Drive",
+		"city" : "Ueda",
+		"district" : "Nagano",
+		"postal_code" : "90797",
+		"phone" : "759586584889"
+	},
+	{
+		"dim_locations_key" : 1113,
+		"address_key" : 509,
+		"city_key" : 245,
+		"address" : "786 Matsue Way",
+		"city" : "Joliet",
+		"district" : "Illinois",
+		"postal_code" : "37469",
+		"phone" : "111177206479"
+	},
+	{
+		"dim_locations_key" : 1114,
+		"address_key" : 510,
+		"city_key" : 519,
+		"address" : "48 Maracabo Place",
+		"city" : "Talavera",
+		"district" : "Central Luzon",
+		"postal_code" : "1570",
+		"phone" : "82671830126"
+	},
+	{
+		"dim_locations_key" : 1115,
+		"address_key" : 511,
+		"city_key" : 412,
+		"address" : "1152 al-Qatif Lane",
+		"city" : "Pontianak",
+		"district" : "Kalimantan Barat",
+		"postal_code" : "44816",
+		"phone" : "131370665218"
+	},
+	{
+		"dim_locations_key" : 1116,
+		"address_key" : 512,
+		"city_key" : 163,
+		"address" : "1269 Ipoh Avenue",
+		"city" : "Eskisehir",
+		"district" : "Eskisehir",
+		"postal_code" : "54674",
+		"phone" : "402630109080"
+	},
+	{
+		"dim_locations_key" : 1117,
+		"address_key" : 513,
+		"city_key" : 568,
+		"address" : "758 Korolev Parkway",
+		"city" : "Vijayawada",
+		"district" : "Andhra Pradesh",
+		"postal_code" : "75474",
+		"phone" : "441628280920"
+	},
+	{
+		"dim_locations_key" : 1118,
+		"address_key" : 514,
+		"city_key" : 110,
+		"address" : "1747 Rustenburg Place",
+		"city" : "Chapra",
+		"district" : "Bihar",
+		"postal_code" : "51369",
+		"phone" : "442673923363"
+	},
+	{
+		"dim_locations_key" : 1119,
+		"address_key" : 515,
+		"city_key" : 259,
+		"address" : "886 Tonghae Place",
+		"city" : "Kamyin",
+		"district" : "Volgograd",
+		"postal_code" : "19450",
+		"phone" : "711928348157"
+	},
+	{
+		"dim_locations_key" : 1120,
+		"address_key" : 516,
+		"city_key" : 502,
+		"address" : "1574 Goinia Boulevard",
+		"city" : "Suihua",
+		"district" : "Heilongjiang",
+		"postal_code" : "39529",
+		"phone" : "59634255214"
+	},
+	{
+		"dim_locations_key" : 1121,
+		"address_key" : 517,
+		"city_key" : 312,
+		"address" : "548 Uruapan Street",
+		"city" : "London",
+		"district" : "Ontario",
+		"postal_code" : "35653",
+		"phone" : "879347453467"
+	},
+	{
+		"dim_locations_key" : 1122,
+		"address_key" : 519,
+		"city_key" : 583,
+		"address" : "962 Tama Loop",
+		"city" : "Yangor",
+		"district" : "",
+		"postal_code" : "65952",
+		"phone" : "282667506728"
+	},
+	{
+		"dim_locations_key" : 1123,
+		"address_key" : 520,
+		"city_key" : 594,
+		"address" : "1778 Gijn Manor",
+		"city" : "Zaoyang",
+		"district" : "Hubei",
+		"postal_code" : "35156",
+		"phone" : "288910576761"
+	},
+	{
+		"dim_locations_key" : 1124,
+		"address_key" : 521,
+		"city_key" : 127,
+		"address" : "568 Dhule (Dhulia) Loop",
+		"city" : "Coquimbo",
+		"district" : "Coquimbo",
+		"postal_code" : "92568",
+		"phone" : "602101369463"
+	},
+	{
+		"dim_locations_key" : 1125,
+		"address_key" : 522,
+		"city_key" : 60,
+		"address" : "1768 Udine Loop",
+		"city" : "Battambang",
+		"district" : "Battambang",
+		"postal_code" : "32347",
+		"phone" : "448876499197"
+	},
+	{
+		"dim_locations_key" : 1126,
+		"address_key" : 523,
+		"city_key" : 116,
+		"address" : "608 Birgunj Parkway",
+		"city" : "Chungho",
+		"district" : "Taipei",
+		"postal_code" : "400",
+		"phone" : "627425618482"
+	},
+	{
+		"dim_locations_key" : 1127,
+		"address_key" : 524,
+		"city_key" : 482,
+		"address" : "680 A Corua (La Corua) Manor",
+		"city" : "Sivas",
+		"district" : "Sivas",
+		"postal_code" : "49806",
+		"phone" : "158326114853"
+	},
+	{
+		"dim_locations_key" : 1128,
+		"address_key" : 525,
+		"city_key" : 224,
+		"address" : "1949 Sanya Street",
+		"city" : "Isesaki",
+		"district" : "Gumma",
+		"postal_code" : "61244",
+		"phone" : "132100972047"
+	},
+	{
+		"dim_locations_key" : 1129,
+		"address_key" : 526,
+		"city_key" : 366,
+		"address" : "617 Klerksdorp Place",
+		"city" : "Nha Trang",
+		"district" : "Khanh Hoa",
+		"postal_code" : "94707",
+		"phone" : "574973479129"
+	},
+	{
+		"dim_locations_key" : 1130,
+		"address_key" : 527,
+		"city_key" : 588,
+		"address" : "1993 0 Loop",
+		"city" : "Yingkou",
+		"district" : "Liaoning",
+		"postal_code" : "41214",
+		"phone" : "25865528181"
+	},
+	{
+		"dim_locations_key" : 1131,
+		"address_key" : 528,
+		"city_key" : 458,
+		"address" : "1176 Southend-on-Sea Manor",
+		"city" : "Santa Rosa",
+		"district" : "Southern Tagalog",
+		"postal_code" : "81651",
+		"phone" : "236679267178"
+	},
+	{
+		"dim_locations_key" : 1132,
+		"address_key" : 529,
+		"city_key" : 571,
+		"address" : "600 Purnea (Purnia) Avenue",
+		"city" : "Vinh",
+		"district" : "Nghe An",
+		"postal_code" : "18043",
+		"phone" : "638409958875"
+	},
+	{
+		"dim_locations_key" : 1133,
+		"address_key" : 530,
+		"city_key" : 419,
+		"address" : "1003 Qinhuangdao Street",
+		"city" : "Purwakarta",
+		"district" : "West Java",
+		"postal_code" : "25972",
+		"phone" : "35533115997"
+	},
+	{
+		"dim_locations_key" : 1134,
+		"address_key" : 531,
+		"city_key" : 551,
+		"address" : "1986 Sivas Place",
+		"city" : "Udine",
+		"district" : "Friuli-Venezia Giuli",
+		"postal_code" : "95775",
+		"phone" : "182059202712"
+	},
+	{
+		"dim_locations_key" : 1135,
+		"address_key" : 532,
+		"city_key" : 101,
+		"address" : "1427 Tabuk Place",
+		"city" : "Cape Coral",
+		"district" : "Florida",
+		"postal_code" : "31342",
+		"phone" : "214756839122"
+	},
+	{
+		"dim_locations_key" : 1136,
+		"address_key" : 533,
+		"city_key" : 339,
+		"address" : "556 Asuncin Way",
+		"city" : "Mogiljov",
+		"district" : "Mogiljov",
+		"postal_code" : "35364",
+		"phone" : "338244023543"
+	},
+	{
+		"dim_locations_key" : 1137,
+		"address_key" : 534,
+		"city_key" : 67,
+		"address" : "486 Ondo Parkway",
+		"city" : "Benguela",
+		"district" : "Benguela",
+		"postal_code" : "35202",
+		"phone" : "105882218332"
+	},
+	{
+		"dim_locations_key" : 1138,
+		"address_key" : 535,
+		"city_key" : 75,
+		"address" : "635 Brest Manor",
+		"city" : "Bhimavaram",
+		"district" : "Andhra Pradesh",
+		"postal_code" : "40899",
+		"phone" : "80593242951"
+	},
+	{
+		"dim_locations_key" : 1139,
+		"address_key" : 536,
+		"city_key" : 165,
+		"address" : "166 Jinchang Street",
+		"city" : "Ezeiza",
+		"district" : "Buenos Aires",
+		"postal_code" : "86760",
+		"phone" : "717566026669"
+	},
+	{
+		"dim_locations_key" : 1140,
+		"address_key" : 537,
+		"city_key" : 287,
+		"address" : "958 Sagamihara Lane",
+		"city" : "Kuwana",
+		"district" : "Mie",
+		"postal_code" : "88408",
+		"phone" : "427274926505"
+	},
+	{
+		"dim_locations_key" : 1141,
+		"address_key" : 538,
+		"city_key" : 100,
+		"address" : "1817 Livorno Way",
+		"city" : "Cam Ranh",
+		"district" : "Khanh Hoa",
+		"postal_code" : "79401",
+		"phone" : "478380208348"
+	},
+	{
+		"dim_locations_key" : 1142,
+		"address_key" : 539,
+		"city_key" : 80,
+		"address" : "1332 Gaziantep Lane",
+		"city" : "Binzhou",
+		"district" : "Shandong",
+		"postal_code" : "22813",
+		"phone" : "383353187467"
+	},
+	{
+		"dim_locations_key" : 1143,
+		"address_key" : 540,
+		"city_key" : 24,
+		"address" : "949 Allende Lane",
+		"city" : "Amroha",
+		"district" : "Uttar Pradesh",
+		"postal_code" : "67521",
+		"phone" : "122981120653"
+	},
+	{
+		"dim_locations_key" : 1144,
+		"address_key" : 541,
+		"city_key" : 363,
+		"address" : "195 Ilorin Street",
+		"city" : "NDjamna",
+		"district" : "Chari-Baguirmi",
+		"postal_code" : "49250",
+		"phone" : "8912935608"
+	},
+	{
+		"dim_locations_key" : 1145,
+		"address_key" : 542,
+		"city_key" : 539,
+		"address" : "193 Bhusawal Place",
+		"city" : "Tonghae",
+		"district" : "Kang-won",
+		"postal_code" : "9750",
+		"phone" : "745267607502"
+	},
+	{
+		"dim_locations_key" : 1146,
+		"address_key" : 543,
+		"city_key" : 42,
+		"address" : "43 Vilnius Manor",
+		"city" : "Aurora",
+		"district" : "Colorado",
+		"postal_code" : "79814",
+		"phone" : "484500282381"
+	},
+	{
+		"dim_locations_key" : 1147,
+		"address_key" : 544,
+		"city_key" : 46,
+		"address" : "183 Haiphong Street",
+		"city" : "Baicheng",
+		"district" : "Jilin",
+		"postal_code" : "69953",
+		"phone" : "488600270038"
+	},
+	{
+		"dim_locations_key" : 1148,
+		"address_key" : 545,
+		"city_key" : 561,
+		"address" : "163 Augusta-Richmond County Loop",
+		"city" : "Valencia",
+		"district" : "Carabobo",
+		"postal_code" : "33030",
+		"phone" : "754579047924"
+	},
+	{
+		"dim_locations_key" : 1149,
+		"address_key" : 546,
+		"city_key" : 436,
+		"address" : "191 Jos Azueta Parkway",
+		"city" : "Ruse",
+		"district" : "Ruse",
+		"postal_code" : "13629",
+		"phone" : "932156667696"
+	},
+	{
+		"dim_locations_key" : 1150,
+		"address_key" : 547,
+		"city_key" : 309,
+		"address" : "379 Lublin Parkway",
+		"city" : "Livorno",
+		"district" : "Toscana",
+		"postal_code" : "74568",
+		"phone" : "921960450089"
+	},
+	{
+		"dim_locations_key" : 1151,
+		"address_key" : 548,
+		"city_key" : 396,
+		"address" : "1658 Cuman Loop",
+		"city" : "Pangkal Pinang",
+		"district" : "Sumatera Selatan",
+		"postal_code" : "51309",
+		"phone" : "784907335610"
+	},
+	{
+		"dim_locations_key" : 1152,
+		"address_key" : 549,
+		"city_key" : 68,
+		"address" : "454 Qinhuangdao Drive",
+		"city" : "Beni-Mellal",
+		"district" : "Tadla-Azilal",
+		"postal_code" : "25866",
+		"phone" : "786270036240"
+	},
+	{
+		"dim_locations_key" : 1153,
+		"address_key" : 550,
+		"city_key" : 485,
+		"address" : "1715 Okayama Street",
+		"city" : "So Bernardo do Campo",
+		"district" : "So Paulo",
+		"postal_code" : "55676",
+		"phone" : "169352919175"
+	},
+	{
+		"dim_locations_key" : 1154,
+		"address_key" : 551,
+		"city_key" : 275,
+		"address" : "182 Nukualofa Drive",
+		"city" : "Konotop",
+		"district" : "Sumy",
+		"postal_code" : "15414",
+		"phone" : "426346224043"
+	},
+	{
+		"dim_locations_key" : 1155,
+		"address_key" : 552,
+		"city_key" : 462,
+		"address" : "390 Wroclaw Way",
+		"city" : "Sanya",
+		"district" : "Hainan",
+		"postal_code" : "5753",
+		"phone" : "357593328658"
+	},
+	{
+		"dim_locations_key" : 1156,
+		"address_key" : 553,
+		"city_key" : 260,
+		"address" : "1421 Quilmes Lane",
+		"city" : "Kanazawa",
+		"district" : "Ishikawa",
+		"postal_code" : "19151",
+		"phone" : "135407755975"
+	},
+	{
+		"dim_locations_key" : 1157,
+		"address_key" : 554,
+		"city_key" : 528,
+		"address" : "947 Trshavn Place",
+		"city" : "Tarlac",
+		"district" : "Central Luzon",
+		"postal_code" : "841",
+		"phone" : "50898428626"
+	},
+	{
+		"dim_locations_key" : 1158,
+		"address_key" : 555,
+		"city_key" : 459,
+		"address" : "1764 Jalib al-Shuyukh Parkway",
+		"city" : "Santiago de Compostela",
+		"district" : "Galicia",
+		"postal_code" : "77642",
+		"phone" : "84794532510"
+	},
+	{
+		"dim_locations_key" : 1159,
+		"address_key" : 556,
+		"city_key" : 599,
+		"address" : "346 Cam Ranh Avenue",
+		"city" : "Zhoushan",
+		"district" : "Zhejiang",
+		"postal_code" : "39976",
+		"phone" : "978430786151"
+	},
+	{
+		"dim_locations_key" : 1160,
+		"address_key" : 557,
+		"city_key" : 21,
+		"address" : "1407 Pachuca de Soto Place",
+		"city" : "Alvorada",
+		"district" : "Rio Grande do Sul",
+		"postal_code" : "26284",
+		"phone" : "380077794770"
+	},
+	{
+		"dim_locations_key" : 1161,
+		"address_key" : 558,
+		"city_key" : 193,
+		"address" : "904 Clarksville Drive",
+		"city" : "Haining",
+		"district" : "Zhejiang",
+		"postal_code" : "52234",
+		"phone" : "955349440539"
+	},
+	{
+		"dim_locations_key" : 1162,
+		"address_key" : 559,
+		"city_key" : 368,
+		"address" : "1917 Kumbakonam Parkway",
+		"city" : "Novi Sad",
+		"district" : "Vojvodina",
+		"postal_code" : "11892",
+		"phone" : "698182547686"
+	},
+	{
+		"dim_locations_key" : 1163,
+		"address_key" : 560,
+		"city_key" : 426,
+		"address" : "1447 Imus Place",
+		"city" : "Rajkot",
+		"district" : "Gujarat",
+		"postal_code" : "12905",
+		"phone" : "62127829280"
+	},
+	{
+		"dim_locations_key" : 1164,
+		"address_key" : 561,
+		"city_key" : 112,
+		"address" : "1497 Fengshan Drive",
+		"city" : "Chatsworth",
+		"district" : "KwaZulu-Natal",
+		"postal_code" : "63022",
+		"phone" : "368738360376"
+	},
+	{
+		"dim_locations_key" : 1165,
+		"address_key" : 562,
+		"city_key" : 496,
+		"address" : "869 Shikarpur Way",
+		"city" : "Southport",
+		"district" : "England",
+		"postal_code" : "57380",
+		"phone" : "590764256785"
+	},
+	{
+		"dim_locations_key" : 1166,
+		"address_key" : 563,
+		"city_key" : 570,
+		"address" : "1059 Yuncheng Avenue",
+		"city" : "Vilnius",
+		"district" : "Vilna",
+		"postal_code" : "47498",
+		"phone" : "107092893983"
+	},
+	{
+		"dim_locations_key" : 1167,
+		"address_key" : 564,
+		"city_key" : 577,
+		"address" : "505 Madiun Boulevard",
+		"city" : "Wroclaw",
+		"district" : "Dolnoslaskie",
+		"postal_code" : "97271",
+		"phone" : "970638808606"
+	},
+	{
+		"dim_locations_key" : 1168,
+		"address_key" : 565,
+		"city_key" : 79,
+		"address" : "1741 Hoshiarpur Boulevard",
+		"city" : "Bilbays",
+		"district" : "al-Sharqiya",
+		"postal_code" : "22372",
+		"phone" : "855066328617"
+	},
+	{
+		"dim_locations_key" : 1169,
+		"address_key" : 566,
+		"city_key" : 43,
+		"address" : "1229 Varanasi (Benares) Manor",
+		"city" : "Avellaneda",
+		"district" : "Buenos Aires",
+		"postal_code" : "40195",
+		"phone" : "817740355461"
+	},
+	{
+		"dim_locations_key" : 1170,
+		"address_key" : 567,
+		"city_key" : 178,
+		"address" : "1894 Boa Vista Way",
+		"city" : "Garland",
+		"district" : "Texas",
+		"postal_code" : "77464",
+		"phone" : "239357986667"
+	},
+	{
+		"dim_locations_key" : 1171,
+		"address_key" : 568,
+		"city_key" : 488,
+		"address" : "1342 Sharja Way",
+		"city" : "Sokoto",
+		"district" : "Sokoto & Kebbi & Zam",
+		"postal_code" : "93655",
+		"phone" : "946114054231"
+	},
+	{
+		"dim_locations_key" : 1172,
+		"address_key" : 569,
+		"city_key" : 95,
+		"address" : "1342 Abha Boulevard",
+		"city" : "Bucuresti",
+		"district" : "Bukarest",
+		"postal_code" : "10714",
+		"phone" : "997453607116"
+	},
+	{
+		"dim_locations_key" : 1173,
+		"address_key" : 570,
+		"city_key" : 580,
+		"address" : "415 Pune Avenue",
+		"city" : "Xintai",
+		"district" : "Shandong",
+		"postal_code" : "44274",
+		"phone" : "203202500108"
+	},
+	{
+		"dim_locations_key" : 1174,
+		"address_key" : 571,
+		"city_key" : 214,
+		"address" : "1746 Faaa Way",
+		"city" : "Hunuco",
+		"district" : "Huanuco",
+		"postal_code" : "32515",
+		"phone" : "863080561151"
+	},
+	{
+		"dim_locations_key" : 1175,
+		"address_key" : 572,
+		"city_key" : 538,
+		"address" : "539 Hami Way",
+		"city" : "Tokat",
+		"district" : "Tokat",
+		"postal_code" : "52196",
+		"phone" : "525518075499"
+	},
+	{
+		"dim_locations_key" : 1176,
+		"address_key" : 573,
+		"city_key" : 466,
+		"address" : "1407 Surakarta Manor",
+		"city" : "Serpuhov",
+		"district" : "Moskova",
+		"postal_code" : "33224",
+		"phone" : "324346485054"
+	},
+	{
+		"dim_locations_key" : 1177,
+		"address_key" : 574,
+		"city_key" : 55,
+		"address" : "502 Mandi Bahauddin Parkway",
+		"city" : "Barcelona",
+		"district" : "Anzotegui",
+		"postal_code" : "15992",
+		"phone" : "618156722572"
+	},
+	{
+		"dim_locations_key" : 1178,
+		"address_key" : 575,
+		"city_key" : 299,
+		"address" : "1052 Pathankot Avenue",
+		"city" : "Leshan",
+		"district" : "Sichuan",
+		"postal_code" : "77397",
+		"phone" : "128499386727"
+	},
+	{
+		"dim_locations_key" : 1179,
+		"address_key" : 576,
+		"city_key" : 341,
+		"address" : "1351 Sousse Lane",
+		"city" : "Monclova",
+		"district" : "Coahuila de Zaragoza",
+		"postal_code" : "37815",
+		"phone" : "203804046132"
+	},
+	{
+		"dim_locations_key" : 1180,
+		"address_key" : 577,
+		"city_key" : 409,
+		"address" : "1501 Pangkal Pinang Avenue",
+		"city" : "Plock",
+		"district" : "Mazowieckie",
+		"postal_code" : "943",
+		"phone" : "770864062795"
+	},
+	{
+		"dim_locations_key" : 1181,
+		"address_key" : 578,
+		"city_key" : 133,
+		"address" : "1405 Hagonoy Avenue",
+		"city" : "Czestochowa",
+		"district" : "Slaskie",
+		"postal_code" : "86587",
+		"phone" : "867287719310"
+	},
+	{
+		"dim_locations_key" : 1182,
+		"address_key" : 579,
+		"city_key" : 598,
+		"address" : "521 San Juan Bautista Tuxtepec Place",
+		"city" : "Zhezqazghan",
+		"district" : "Qaraghandy",
+		"postal_code" : "95093",
+		"phone" : "844018348565"
+	},
+	{
+		"dim_locations_key" : 1183,
+		"address_key" : 580,
+		"city_key" : 10,
+		"address" : "923 Tangail Boulevard",
+		"city" : "Akishima",
+		"district" : "Tokyo-to",
+		"postal_code" : "33384",
+		"phone" : "315528269898"
+	},
+	{
+		"dim_locations_key" : 1184,
+		"address_key" : 581,
+		"city_key" : 131,
+		"address" : "186 Skikda Lane",
+		"city" : "Cuernavaca",
+		"district" : "Morelos",
+		"postal_code" : "89422",
+		"phone" : "14465669789"
+	},
+	{
+		"dim_locations_key" : 1185,
+		"address_key" : 582,
+		"city_key" : 168,
+		"address" : "1568 Celaya Parkway",
+		"city" : "Fengshan",
+		"district" : "Kaohsiung",
+		"postal_code" : "34750",
+		"phone" : "278669994384"
+	},
+	{
+		"dim_locations_key" : 1186,
+		"address_key" : 583,
+		"city_key" : 526,
+		"address" : "1489 Kakamigahara Lane",
+		"city" : "Tanshui",
+		"district" : "Taipei",
+		"postal_code" : "98883",
+		"phone" : "29341849811"
+	},
+	{
+		"dim_locations_key" : 1187,
+		"address_key" : 584,
+		"city_key" : 103,
+		"address" : "1819 Alessandria Loop",
+		"city" : "Carmen",
+		"district" : "Campeche",
+		"postal_code" : "53829",
+		"phone" : "377633994405"
+	},
+	{
+		"dim_locations_key" : 1188,
+		"address_key" : 585,
+		"city_key" : 344,
+		"address" : "1208 Tama Loop",
+		"city" : "Mosul",
+		"district" : "Ninawa",
+		"postal_code" : "73605",
+		"phone" : "954786054144"
+	},
+	{
+		"dim_locations_key" : 1189,
+		"address_key" : 586,
+		"city_key" : 219,
+		"address" : "951 Springs Lane",
+		"city" : "Iligan",
+		"district" : "Central Mindanao",
+		"postal_code" : "96115",
+		"phone" : "165164761435"
+	},
+	{
+		"dim_locations_key" : 1190,
+		"address_key" : 587,
+		"city_key" : 246,
+		"address" : "760 Miyakonojo Drive",
+		"city" : "Jos Azueta",
+		"district" : "Guerrero",
+		"postal_code" : "64682",
+		"phone" : "294449058179"
+	},
+	{
+		"dim_locations_key" : 1191,
+		"address_key" : 588,
+		"city_key" : 212,
+		"address" : "966 Asuncin Way",
+		"city" : "Huejutla de Reyes",
+		"district" : "Hidalgo",
+		"postal_code" : "62703",
+		"phone" : "995527378381"
+	},
+	{
+		"dim_locations_key" : 1192,
+		"address_key" : 589,
+		"city_key" : 494,
+		"address" : "1584 Ljubertsy Lane",
+		"city" : "Southampton",
+		"district" : "England",
+		"postal_code" : "22954",
+		"phone" : "285710089439"
+	},
+	{
+		"dim_locations_key" : 1193,
+		"address_key" : 590,
+		"city_key" : 54,
+		"address" : "247 Jining Parkway",
+		"city" : "Banjul",
+		"district" : "Banjul",
+		"postal_code" : "53446",
+		"phone" : "170115379190"
+	},
+	{
+		"dim_locations_key" : 1194,
+		"address_key" : 591,
+		"city_key" : 424,
+		"address" : "773 Dallas Manor",
+		"city" : "Quilmes",
+		"district" : "Buenos Aires",
+		"postal_code" : "12664",
+		"phone" : "914466027044"
+	},
+	{
+		"dim_locations_key" : 1195,
+		"address_key" : 592,
+		"city_key" : 546,
+		"address" : "1923 Stara Zagora Lane",
+		"city" : "Tsaotun",
+		"district" : "Nantou",
+		"postal_code" : "95179",
+		"phone" : "182178609211"
+	},
+	{
+		"dim_locations_key" : 1196,
+		"address_key" : 593,
+		"city_key" : 106,
+		"address" : "1402 Zanzibar Boulevard",
+		"city" : "Celaya",
+		"district" : "Guanajuato",
+		"postal_code" : "71102",
+		"phone" : "387448063440"
+	},
+	{
+		"dim_locations_key" : 1197,
+		"address_key" : 594,
+		"city_key" : 574,
+		"address" : "1464 Kursk Parkway",
+		"city" : "Weifang",
+		"district" : "Shandong",
+		"postal_code" : "17381",
+		"phone" : "338758048786"
+	},
+	{
+		"dim_locations_key" : 1198,
+		"address_key" : 595,
+		"city_key" : 311,
+		"address" : "1074 Sanaa Parkway",
+		"city" : "Loja",
+		"district" : "Loja",
+		"postal_code" : "22474",
+		"phone" : "154124128457"
+	},
+	{
+		"dim_locations_key" : 1199,
+		"address_key" : 596,
+		"city_key" : 14,
+		"address" : "1759 Niznekamsk Avenue",
+		"city" : "al-Manama",
+		"district" : "al-Manama",
+		"postal_code" : "39414",
+		"phone" : "864392582257"
+	},
+	{
+		"dim_locations_key" : 1200,
+		"address_key" : 597,
+		"city_key" : 248,
+		"address" : "32 Liaocheng Way",
+		"city" : "Juiz de Fora",
+		"district" : "Minas Gerais",
+		"postal_code" : "1944",
+		"phone" : "410877354933"
+	},
+	{
+		"dim_locations_key" : 1201,
+		"address_key" : 598,
+		"city_key" : 512,
+		"address" : "42 Fontana Avenue",
+		"city" : "Szkesfehrvr",
+		"district" : "Fejr",
+		"postal_code" : "14684",
+		"phone" : "437829801725"
+	},
+	{
+		"dim_locations_key" : 1202,
+		"address_key" : 599,
+		"city_key" : 177,
+		"address" : "1895 Zhezqazghan Drive",
+		"city" : "Garden Grove",
+		"district" : "California",
+		"postal_code" : "36693",
+		"phone" : "137809746111"
+	},
+	{
+		"dim_locations_key" : 1203,
+		"address_key" : 600,
+		"city_key" : 241,
+		"address" : "1837 Kaduna Parkway",
+		"city" : "Jining",
+		"district" : "Inner Mongolia",
+		"postal_code" : "82580",
+		"phone" : "640843562301"
+	},
+	{
+		"dim_locations_key" : 1204,
+		"address_key" : 601,
+		"city_key" : 242,
+		"address" : "844 Bucuresti Place",
+		"city" : "Jinzhou",
+		"district" : "Liaoning",
+		"postal_code" : "36603",
+		"phone" : "935952366111"
+	},
+	{
+		"dim_locations_key" : 1205,
+		"address_key" : 602,
+		"city_key" : 401,
+		"address" : "1101 Bucuresti Boulevard",
+		"city" : "Patras",
+		"district" : "West Greece",
+		"postal_code" : "97661",
+		"phone" : "199514580428"
+	},
+	{
+		"dim_locations_key" : 1206,
+		"address_key" : 603,
+		"city_key" : 503,
+		"address" : "1103 Quilmes Boulevard",
+		"city" : "Sullana",
+		"district" : "Piura",
+		"postal_code" : "52137",
+		"phone" : "644021380889"
+	},
+	{
+		"dim_locations_key" : 1207,
+		"address_key" : 604,
+		"city_key" : 296,
+		"address" : "1331 Usak Boulevard",
+		"city" : "Lausanne",
+		"district" : "Vaud",
+		"postal_code" : "61960",
+		"phone" : "145308717464"
+	},
+	{
+		"dim_locations_key" : 1208,
+		"address_key" : 605,
+		"city_key" : 537,
+		"address" : "1325 Fukuyama Street",
+		"city" : "Tieli",
+		"district" : "Heilongjiang",
+		"postal_code" : "27107",
+		"phone" : "288241215394"
+	}
+]
